@@ -1,0 +1,585 @@
+<!DOCTYPE html>
+<html lang="fr" class="no-js">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta name="robots" content="index,follow">
+    <title>Petit manuel à destination des clubs de foot professionnels pour réussir leur mercato d&#039;hiver | Slate.fr</title>
+    <link rel="canonical" href="http://www.slate.fr/story/96859/football-mercato-hiver" />
+        <meta name="description" content="Trucs et astuces pour ne pas dépenser son argent n'importe comment..." />
+        <meta name="keywords" content="Sports,football,Mercato,Ligue 1,CAN," />
+
+    <meta property="og:title" content="Petit manuel à destination des clubs de foot professionnels pour réussir leur mercato d'hiver" />
+    <meta property="og:type" content="article" />
+    <meta property="og:locale" content="fr_FR" />
+    <meta property="og:url" content="http://www.slate.fr/story/96859/football-mercato-hiver" />
+    <meta property="og:image" content="http://www.slate.fr/sites/default/files/psg-om-nov2014-reuters.jpg" />
+        <meta property="og:description" content="Trucs et astuces pour ne pas dépenser son argent n'importe comment..." />
+        <meta property="og:site_name" content="Slate.fr" />
+    <meta property="fb:admins" content="557108289,587894481" />
+    <meta property="fb:app_id" content="331756046878771" />
+    <meta property="fb:page_id" content="77978221232" />
+
+    <meta property="twitter:account_id" content="20224969" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@Slatefr" />
+    <meta name="twitter:title" content="Petit manuel à destination des clubs de foot professionnels pour réussir leur mercato d'hiver" />
+        <meta name="twitter:description" content="Trucs et astuces pour ne pas dépenser son argent n'importe comment..." />
+        <meta name="twitter:image:src" content="http://www.slate.fr/sites/default/files/psg-om-nov2014-reuters.jpg" />
+
+    <meta property="article:author" content="http://www.slate.fr/source/63707/camille-belsoeur" />
+    <meta property="article:section" content="Sports" />
+
+    <link href='//fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Roboto:400,300,700' rel='stylesheet' type='text/css'>
+    
+    <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/slate/css/main.min.css?v=43">
+    
+    <script src="/sites/all/themes/slate/js/jquery.min.js"></script>
+    <script src="/sites/all/themes/slate/js/modernizr.min.js?v=2"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="/sites/all/modules/custom/slate_share/scripts/share.js"></script>
+    <script type="text/javascript">
+    sas_tmstp=Math.round(Math.random()*10000000000);sas_masterflag=1;
+    function SmartAdServer(sas_pageid,sas_formatid,sas_target) {
+     if (sas_masterflag==1) {sas_masterflag=0;sas_master='M';} else {sas_master='S';};
+     document.write('<scr'+'ipt id="smartSrc' + sas_formatid + '" src="http://www4.smartadserver.com/call/pubj/' + sas_pageid + '/' + sas_formatid + '/' + sas_master + '/' + sas_tmstp + '/' + escape(sas_target) + '?"></scr'+'ipt>');
+    }
+    </script>
+    <script>
+    var habillage = 0;
+    </script>
+    <script type="text/javascript">sas_pageid='59629/447027';sas_formatid=14326;sas_target='';SmartAdServer(sas_pageid,sas_formatid,sas_target);</script></head>
+<body class="article">
+    <script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+
+    <div class="content">
+        <article class="full_article">
+    <div class="banniere_top" style="margin-top:-1px;">
+	<script type="text/javascript">sas_pageid='59629/447027';sas_formatid=14323;sas_target='';SmartAdServer(sas_pageid,sas_formatid,sas_target);</script>    </div>
+    <header class="width_wrap">
+        <h1>Petit manuel à destination des clubs de foot professionnels pour réussir leur mercato d'hiver</h1>
+        <div class="header_infos strong_purple_links">
+                        <p><a href="/source/63707/camille-belsoeur">Camille Belsoeur</a></p>                        <p class="header_infos_rubrique"><a href="/sports">Sports</a></p>                        <time datetime="2015-01-18T14:52:00">18.01.2015 - 14 h 52</time>
+                                    <p>mis à jour le 18.01.2015 à 14 h 53</p>
+                    </div>
+        <img src="/sites/default/files/imagecache/1090x500/psg-om-nov2014-reuters.jpg" alt="Marco Verratti , Florian Thauvin, Dimitri Payet et Rod Fanni, pendant le match PSG-OM du 9 novembre 2014 au Parc des Princes. REUTERS/Charles Platiau" title="Marco Verratti , Florian Thauvin, Dimitri Payet et Rod Fanni, pendant le match PSG-OM du 9 novembre 2014 au Parc des Princes. REUTERS/Charles Platiau" width="1090" height="500" class="imagecache imagecache-1090x500"/>                <p class="media_legend">Marco Verratti , Florian Thauvin, Dimitri Payet et Rod Fanni, pendant le match PSG-OM du 9 novembre 2014 au Parc des Princes. REUTERS/Charles Platiau</p>    </header>
+    <div class="article_content clearfix width_wrap">
+        <div class="main_content">
+            <p class="hat">Trucs et astuces pour ne pas dépenser son argent n'importe comment...</p>            <p>Dans le monde du football, le mercato d'hiver (du 1<sup>er</sup> au 31 janvier) peut être comparé aux soldes du mois de janvier. C'est une période d'appoint où, dans l'idéal, on va s'offrir le cadeau qu'on n'a pas eu la chance de trouver sous le sapin à Noël.</p>
+<p>Mais en matière de ballon rond, le marché de Noël a lieu l'été. C'est sous la chaleur estivale que les entraîneurs des clubs professionnels envoient leur liste au Santa Claus local –leur président– et remodèlent leur équipe tout en faisant rêver les supporters autant que possible.</p>
+<p>Le mercato d'hiver arrive lui à la mi-saison, après cinq mois de compétition. Un laps de temps dans lequel des équipes ont déjà vu leurs rêves de grandeur partir en lambeaux, quand d'autres revoient leurs ambitions à la hausse. Ajoutez une poignée de sel, et tous les ingrédients sont réunis pour faire du mercato d'hiver une foire d'empoigne, avec à ma gauche un entraîneur qui veut recruter pour pallier les défauts de son effectif bâti à l'été, et à ma droite un président qui compte offrir un renfort bonus à son coach.</p>
+<p>Mais entre pression du résultat à court terme –inhérente au football– et argent à gogo, le mercato d'hiver est souvent le théâtre d'investissements foireux de la part des clubs professionnels. Voici quelques règles à suivre pour s'en sortir au mieux. Et ne pas recruter l'Anglais<a href="http://www.lequipe.fr/Football/FootballFicheJoueur25926.html"> Andy Carroll </a>lors du dernier jour du mercato d'hiver en 2011 pour 42 millions d'euros, comme l'avait fait Liverpool.</p>
+<h2 class="clearfix"><span class="num_subtitle">1.</span><span>Ne pas tout bouleverser</span></h2>
+<p>La première règle pour bonifier son équipe lors du mercato d'hiver est de ne pas tout chambouler. Un collectif a besoin de temps pour prendre forme dans un effectif, et même en cas de première partie de saison médiocre, il faut retoucher aux marges un onze-type.</p>
+<p>Dans ce sens, le pire exemple d'une gestion de mercato, est peut-être celui de Bernard Tapie avec l'OM lors de la saison 2001-2002. De retour aux manettes du club l'été précédent, «Nanard» casse la dynamique de l'équipe qui commençait seulement à prendre forme à la fin de l'automne après un été très mouvementé (22 arrivées!). L'ancien patron d'Adidas recrute en effet pas moins de neuf joueurs lors de ce mois de janvier 2002, et en vend 11 autres pour un total de 19 mouvements lors de ce mercato d'hiver. L'OM bouclera la saison à une médiocre 9<sup>e</sup> place de Division 1 (le championnat devient Ligue 1 la saison suivante).</p>
+<h2 class="clearfix"><span class="num_subtitle">2.</span><span>Préparer la saison suivante</span></h2>
+<p>Recruter un joueur lors de la période des fêtes, c'est d'abord faire un pari pour l'avenir. Un jeune espoir ne donnera souvent pas la pleine mesure de son talent en quelques semaines dans un environnement tout nouveau pour lui.</p>
+<p>C'est encore plus vrai pour les joueurs étrangers qui débarquent en France pour la première fois. On pense aux Sud-Américains, toujours nombreux à faire leurs valises pour l'Hexagone en janvier et qui ne parlent pas la langue, ne connaissent pas les rigueurs de l'hiver européen ni la dimension physique et tactique de la Ligue 1.</p>
+<p>L'un des meilleurs exemples récents est <a href="http://www.lequipe.fr/Football/FootballFicheJoueur40953.html">Lucas Moura</a>, le prodige brésilien du PSG. Arrivé dans la capitale lors de l'hiver 2013 pour 40 millions d'euros en provenance du club de São Paulo et présenté dès lors comme un futur crack mondial, le jeune milieu offensif alors âgé de 21 ans mettra plusieurs mois, voire une saison complète à justifier le prix de son transfert. Après avoir été longtemps critiqué par les médias et les observateurs, il est le meilleur joueur du PSG cette saison.</p>
+<p>Plus généralement, il est rare qu'un joueur étranger ou qu'un jeune espoir réussisse en quelques mois. Les achats d'hiver, c'est aussi anticiper l'été suivant.</p>
+<h2 class="clearfix"><span class="num_subtitle">3.</span><span>Faire des paris peu coûteux</span></h2>
+<p>On l'oublierait presque, mais le principe des soldes est d'abord de faire de bonnes affaires pour pas cher. Evidemment, il y a toujours le risque d'être déçu par la qualité de ce nouveau pull acheté pour pas grand-chose entre deux cartons. Mais, même en cas de déception, le portefeuille ne fait pas trop grise mine.</p>
+<p>C'est la même chose en football où le mois de janvier est aussi l'occasion de tenter des coups pour relancer pour «peanuts» des joueurs à potentiel, qui n'ont pas de temps de jeu dans leur club ou reviennent tout juste d'une longue blessure. Pour les petits budgets, le must reste de se faire prêter un joueur avec option d'achat. Si la recrue est une bonne pioche, le club l'achète en fin de saison, et dans le cas inverse le joueur retourne dans son club d'origine.</p>
+<p>A l'hiver 2013, Bastia engage gratuitement le gardien international français <a href="http://www.lequipe.fr/Football/FootballFicheJoueur2757.html">Mickaël Landreau</a>, qui a résilié son contrat avec Lille en décembre. Le troisième gardien des Bleus lors de la Coupe du monde 2014 sera décisif dès son premier match avec les Corses lors d'un déplacement à Reims où il sort le grand jeu avec de nombreuses parades. C'est aussi sous les couleurs bastiaises que Landreau battra le record de matchs joués en Ligue 1 par un footballeur avec 603 rencontres disputées. Le parfait exemple du pari gagnant sur le plan sportif et médiatique.</p>
+<p>En ce mois de janvier 2015, c'est Nice qui a tenté le pari gagnant-gagnant –sur le papier– le plus risqué, mais aussi le plus bankable en cas de succès.</p>
+<p>En recrutant gratuitement <a href="http://www.lequipe.fr/Football/FootballFicheJoueur20671.html">Hatem Ben Arfa</a>, 27 ans, l'un des joueurs français parmi les plus talentueux, mais dont la carrière ressemble pour le moment à un long gâchis en raison de son comportement. Depuis son départ de Lyon en 2008, cette tête brûlée de la fameuse «<a href="http://www.footmercato.net/autre-championnat/generation-87-que-sont-ils-devenus_96707">génération 87</a>» n'a jamais confirmé son talent à Marseille, Newcastle et Hull City, en dehors de quelques coups d'éclats comme ce but incroyable inscrit sous les couleurs de Newcastle.&nbsp;</p>
+<div class="clearfix"><iframe allowfullscreen="" frameborder="0" height="360" src="//www.dailymotion.com/embed/video/xq0fs1" width="640"></iframe></div>
+<p><br />
+Le club de Nice l'a recruté sans indemnités de transfert puisque le joueur a résilié son contrat avec Newcastle, qui l'avait déjà prêté à Hull City ces derniers mois.</p>
+<p>Sur ce pari sportif, le club de la Côte-d'Azur a tout à gagner et a priori pas grand-chose à perdre –à moins que le joueur ne <a href="http://www.lequipe.fr/Football/Actualites/L-imbroglio-ben-arfa/527598">pourrisse l'ambiance du vestiaire</a>.&nbsp;</p>
+<p>Seulement, ce joli coup pourrait bien ne pas se faire: <a href="http://www.lequipe.fr/Football/Actualites/Audience-repoussee-a-mardi/528293">son contrat pourrait ne pas être homologué </a>si l'on considère que le joueur a porté les couleurs de NewCastle et de Hull City cette année, son transfert à Nice portant le nombre de clubs à 3, ce qui est interdit par le réglement de la Fifa.</p>
+<h2 class="clearfix"><span class="num_subtitle">4.</span><span>Ne pas acheter dans l'urgence</span></h2>
+<p>Dans son édition du 2 janvier, le quotidien L’Equipe révélait qu'en janvier 2014, près de 20% des transferts du mercato d'hiver des clubs français avaient eu lieu le 31 janvier. En 2013, ce ratio s'élevait à 30%, contre 25% en 2012. C'est un fait, les clubs professionnels font souvent leurs achats d'hiver à la dernière minute. Et sous la contrainte de l'horloge, les prix grimpent en flèche et les choix sportifs en matière de transfert virent parfois à l'irrationnel.</p>
+<p>L'an dernier, sur le marché des attaquants dans les dernières heures du mercato, Monaco avait, au rayon des paris risqués, tiré une bonne pioche avec le vétéran bulgare <a href="http://www.lequipe.fr/Football/FootballFicheJoueur5000000000000000000010924.html">Dimitar Berbatov</a>, quand le FC Nantes s'était manqué avec le transfert d'<a href="http://www.lequipe.fr/Football/FootballFicheJoueur35085.html">Itay Shechter</a>, un avant-centre israélien.</p>
+<h2 class="clearfix"><span class="num_subtitle">5.</span><span>Ne pas renforcer la concurrence</span></h2>
+<p>Le mercato d'hiver est souvent cruel pour les clubs modestes qui ont réalisé un début de saison au-delà de leur espérances. Un grand club qui veut se renforcer n'hésitera pas en effet à piller un club qui le concurrence au classement à la mi-saison, mais qui ne possède pas la même force financière.</p>
+<p>Ce mois de janvier, Arsenal fait ainsi le forcing pour débaucher le Français <a href="http://www.lequipe.fr/Football/FootballFicheJoueur25862.html">Morgan Schneiderlin</a> de Southampton, une équipe qui précède les Gunners en Premier League mais qui n'a pas les mêmes moyens financiers. La règle implicite veut pourtant qu'un club, même au budget limité, ne vende pas ses meilleurs joueurs directement à la concurrence en vue de la deuxième partie de saison. Mais comme pour toute règle, il y a des exceptions.</p>
+<h2 class="clearfix"><span class="num_subtitle">6.</span><span>Bien gérer la CAN</span></h2>
+<p>Tous les deux ans, la Coupe d'Afrique des nations vient s'intercaler au mois de janvier au milieu des calendrier surchargés des clubs européens. Conséquence, de nombreuses équipes voient leurs internationaux africains s'envoler avec leur sélection pour plusieurs semaines. Un vrai handicap pour certaines équipes.</p>
+<p>Cette saison, l'OM, à la lutte pour le titre avec le PSG, voit ainsi deux de ses meilleurs joueurs, <a href="http://www.lequipe.fr/Football/FootballFicheJoueur27501.html">André Ayew</a> (Ghana) et <a href="http://www.lequipe.fr/Football/FootballFicheJoueur29626.html">Nicolas Nkoulou</a> (Cameroun) rejoindre la grand-messe du football africain.</p>
+<p>En France, où la proportion de joueurs africains est particulièrement forte, les clubs doivent donc anticiper les années impairs (où se tiennent désormais la CAN) en ne s'exposant pas à un départ trop important de joueurs. Difficile en tout cas de recruter pour remplacer les joueurs partis, le coût d'un transfert ou d'un prêt est souvent trop important pour combler une absence de quelques semaines. Marcel Bielsa, le coach de l'OM, a ainsi déclaré fin décembre que Marseille n'avait pas besoin de remplaçants cet hiver pour pallier les départs d'Ayew et Nkoulou.</p>
+<h2 class="clearfix"><span class="num_subtitle">7.</span><span>Le bonus jackpot</span></h2>
+<p>En matière de business, certains clubs sont des spécialistes des marges mirifiques faites pendant le mercato d'hiver.</p>
+<p>On pense à Lille, qui avait acheté <a href="http://www.lequipe.fr/Football/FootballFicheJoueur40841.html">Florian Thauvin</a> à Bastia pour 3,5 millions d'euros en janvier 2013, avant de le revendre 12 millions d'euros à l'OM l'été suivant. Le club nordiste a remis le couvert cette saison, en cédant son attaquant belge <a href="http://www.lequipe.fr/Football/FootballFicheJoueur46377.html">Divock Orig</a>i à Liverpool pour 19 millions d'euros en août 2014, tout en ayant le droit de conserver le joueur en prêt pour une saison supplémentaire. Finalement, Liverpool, en difficulté en Premier League, a dû payer 6 millions d'euros supplémentaires en ce mois de janvier 2015 pour mettre fin au prêt d'Origi à Lille et lui permettre d'évoluer avec les Reds avec six mois d'avance. Business is business.</p>
+                        <p class="article_author strong_purple_links">
+            <a href="/source/63707/camille-belsoeur">Camille Belsoeur</a>            </p>
+            
+                                    <div id="mb_container">
+                <script type="text/javascript">
+                (function() {
+                    var category = "", sc = document.createElement('script'), metas = document.getElementsByTagName('meta'), doLoop = true;
+                    for (i=0; i<metas.length && doLoop; i++) {
+                        if (metas[i].getAttribute("property") == "article:section") {
+                            category += metas[i].getAttribute("content")+",";
+                        }
+                    }
+                    sc.src = 'http://player.mediabong.com/se/872.js?url='+encodeURIComponent(document.location.href)+'&cat='+encodeURIComponent(category);
+                    sc.type = 'text/javascript';
+                    sc.async = true;
+                    var s = document.getElementsByTagName('script')[0];
+                    s.parentNode.insertBefore(sc, s);
+                })();
+                </script>
+            </div>
+            
+            
+            <div class="share_box_wrapper">
+                <div class="category_title">Partagez cet article</div>
+                <div class="share_box show in_article show_scroll">
+                    <span data-url="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.slate.fr%2Fstory%2F96859%2Ffootball-mercato-hiver" data-share-id="96859" data-share="facebook" class="centerer fb">
+    <span class="nb_share centered">0</span>
+    <span>likes</span>
+</span>                    <span data-url="https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.slate.fr%2Fstory%2F96859%2Ffootball-mercato-hiver&amp;text=Petit+manuel+%C3%A0+destination+des+clubs+de+foot+professionnels+pour+r%C3%A9ussir+leur+mercato+d%27hiver&amp;via=slatefr&amp;lang=fr" data-share-id="96859" data-share="twitter" class="centerer tw">
+    <span class="nb_share centered">6</span>
+    <span>tweets</span>
+</span>                    <span data-url="https://plus.google.com/share?url=http%3A%2F%2Fwww.slate.fr%2Fstory%2F96859%2Ffootball-mercato-hiver" data-share-id="96859" data-share="gplus" class="centerer gp">
+    <span class="nb_share centered">0</span>
+    <span>+1</span>
+</span>                    <span data-url="https://www.linkedin.com/cws/share?url=http%3A%2F%2Fwww.slate.fr%2Fstory%2F96859%2Ffootball-mercato-hiver" data-share-id="96859" data-share="linkedin" class="centerer li">
+    <span class="nb_share centered">0</span>
+    <span>linkedin</span>
+</span>                </div>
+            </div>
+            
+                        <div class="OUTBRAIN" data-src="http://www.slate.fr/story/96859/football-mercato-hiver" data-widget-id="AR_2" data-ob-template="slatefr" ></div><script type="text/javascript" src="http://widgets.outbrain.com/outbrain.js"></script>
+
+            <div class="banniere_top" style="float:right;margin:20px 0;">
+            <script type="text/javascript">sas_pageid='59629/447027';sas_formatid=19783;sas_target='';SmartAdServer(sas_pageid,sas_formatid,sas_target);</script>            </div>
+
+            <div class="tags clearfix">
+                <ul>
+                                        <li><a href="/sports">Sports</a></li>
+                                        <li><a href="/taxonomy/term/199">football</a></li>
+                                        <li><a href="/dossier/19189/mercato">Mercato</a></li>
+                                        <li><a href="/taxonomy/term/2227">Ligue 1</a></li>
+                                        <li><a href="/taxonomy/term/8873">CAN</a></li>
+                                    </ul>
+            </div>
+
+            <div class="bottom_ads aside_advshit">
+                <script type="text/javascript">sas_pageid='59629/447027';sas_formatid=14319;sas_target='';SmartAdServer(sas_pageid,sas_formatid,sas_target);</script>            </div>
+
+            <a name="commentaires" id="commentaires"></a>
+            <div class="comments">
+                <script type="text/javascript">
+                $(document).ready(function(){
+                    if(window.location.hash.indexOf('#comment') != -1) $('.comments_container').css('display', 'block');
+                    $('a[role=button]').click(function(e){
+                        e.preventDefault();
+                        $('.comments_container').slideToggle('slow');
+                    });
+                });
+                </script>
+                <div class="top">
+                    <a role="button">0 commentaire</a>
+                    <a role="button">Commenter</a>
+                </div>
+                <div class="comments_container" style="display:none;">
+                    <script>
+  $(function() {
+    $.get('/comment/async/form/96859', function(data) {
+      $('#comment_form_async').html(data);
+    });
+  });
+</script>
+<div id="comment_form_async" class="clearfix"></div>
+                                    </div>
+            </div>
+
+            <div id="ligatus_slate_smartbox"></div>
+            <script language="javascript" src="http://i.ligatus.com/fr-placements/containers/slate/slate/tc-site.js"></script>
+        </div>
+        <aside>
+            <div class="block_ads aside_top_ads" style="width:300px;">
+                <script type="text/javascript">sas_pageid='59629/447027';sas_formatid=14320;sas_target='';SmartAdServer(sas_pageid,sas_formatid,sas_target);</script>            </div>
+                                    <div class="author_block">
+                                <img src="/sites/default/files/imagecache/120x120/dsc_0453.jpg" alt="Camille Belsoeur" title="Camille Belsoeur" width="120" height="120" class="imagecache imagecache-120x120"/>                                <p class="strong_purple_links">Par <a  href="/source/63707/camille-belsoeur">Camille Belsoeur</a></p>
+                <p>Journaliste</p>                <p>Sa <a href="/source/63707/camille-belsoeur">bio</a>, ses <a href="/source/63707/camille-belsoeur">13 articles</a></p>
+                                <ul class="social">
+                                        <li class="tw">
+                        <a href="https://twitter.com/camBelsoeur" class="twitter-follow-button" data-show-count="false" data-lang="fr">Suivre @camBelsoeur</a>
+                    </li>
+                                                        </ul>
+                            </div>
+                                </aside>
+    </div>
+    </article>    </div>
+
+    <header class="slate_bar">
+    <div class="slate_bar_nav bg_slate">
+        <div class="width_wrap">
+            <div class="slate_bar_nav_container">
+                <div class="main_nav">
+                    <a href="#" title="Menu" id="toggle_menu" class="btn_nav icon_menu_toggle"></a>
+                    <a href="#" title="Calendrier" id="toggle_calendar" class=" btn_nav icon_calendar"></a>
+                    <a href="#" title="Recherche" id="toggle_search" class="btn_nav icon_search"></a>
+                </div>
+                <div class="slate_logo"><a href="/"><img src="/sites/all/themes/slate/images/logo.svg" height="76" width="200" alt="slate.fr"></a></div>
+                            </div>
+        </div>
+                <div class="right_nav">
+            <div class="share_box full_box">
+                <span data-url="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.slate.fr%2Fstory%2F96859%2Ffootball-mercato-hiver" data-share-id="96859" data-share="facebook" class="fb centerer">
+                    <span class="centered">
+                        <span class="nb_share">F</span>
+                        <span>likes</span>
+                    </span>
+                </span>
+                                <span data-url="https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.slate.fr%2Fstory%2F96859%2Ffootball-mercato-hiver&amp;text=Petit+manuel+%C3%A0+destination+des+clubs+de+foot+professionnels+pour+r%C3%A9ussir+leur+mercato+d%27hiver&amp;via=slatefr&amp;lang=fr" data-share-id="96859" data-share="twitter" class="tw centerer">
+                    <span class="centered">
+                        <span class="nb_share">T</span>
+                        <span>tweets</span>
+                    </span>
+                </span>
+                <span data-url="https://plus.google.com/share?url=http%3A%2F%2Fwww.slate.fr%2Fstory%2F96859%2Ffootball-mercato-hiver" data-share-id="96859" data-share="gplus" class="gp centerer">
+                    <span class="centered">
+                        <span class="nb_share">G+</span>
+                        <span>+1</span>
+                        </span>
+                </span>
+                <span data-url="https://www.linkedin.com/cws/share?url=http%3A%2F%2Fwww.slate.fr%2Fstory%2F96859%2Ffootball-mercato-hiver" data-share-id="96859" data-share="linkedin" class="li centerer">
+                    <span class="centered">
+                        <span class="nb_share">IN</span>
+                        <span>linkedin</span>
+                    </span>
+                </span>
+            </div>
+        </div>
+            </div>
+        <div class="article_quick_access">
+        <div class="progress_bar"><span class="bg_pink"></span></div>
+    </div>
+
+    <div class="article_next_nav bg_grey">
+        <div class="width_wrap centerer clearer">
+                                    <a href="/story/96908/compromis-union-europeenne" class="centered"><span class="article_next_cat alternate_3d">À LIRE AUSSI</span><span class="article_next_title">L'Europe retrouve le goût de la synthèse, en attendant que la France s'y mette vraiment</span></a>
+                    </div>
+    </div>
+
+    <div class="cat_bar bg_grey">
+        <div class="width_wrap centerer">
+            <p class="centered"><a href="/sports">/ Sports</a></p>
+        </div>
+    </div>
+        <div class="calendar_header bg_grey header_panel" style="position:fixed;top:104px;left:0;width:100%;z-index:999;">
+        <div class="width_wrap">
+            <div id="calendar"></div>
+        </div>
+    </div>
+    <div class="search_header bg_grey header_panel">
+        <div class="width_wrap">
+            <form action="/search" method="get">
+            <input id="search_request" type="text" class="input" name="mot-cle">
+            <input type="submit" value="ok" style="visibility:hidden;">
+            </form>
+        </div>
+    </div>
+</header>
+    <nav class="menu header_panel menu_header">
+    <ul>
+        <li class="open">
+            <a class="activable" href="#">Magazine</a>
+            <ul>
+                <li><a href="/monde">Monde</a></li>
+                <li><a href="/france">France</a></li>
+                <li><a href="/culture">Culture</a></li>
+                <li><a href="/economie">Economie</a></li>
+                <li><a href="/tech-internet">Tech &amp; internet</a></li>
+                <li><a href="/science-sante">Science &amp; santé</a></li>
+                <li><a href="/sports">Sports</a></li>
+                <li><a href="/double-x">Double X</a></li>
+                <li><a href="/lgbtq">LGBTQ</a></li>
+                <li><a href="/enfants">Parents &amp; enfants</a></li>
+                <li><a href="/bien-manger">Boire &amp; manger</a></li>
+                <li><a href="/histoire">Histoire</a></li>
+                <li><a href="/essais-debats">Essais &amp; débats</a></li>
+                <li><a href="/smart-cites">Smart Cités</a></li>
+                <li><a href="/grand-format">Grands formats</a></li>
+                <li><a href="/allemagne">Allemagne</a></li>
+            </ul>
+        </li>
+        <li>
+            <a href="/slatissime">Slatissime</a>
+        </li>
+        <li>
+            <a href="http://www.reader.fr">Reader</a>
+        </li>
+    </ul>
+</nav>
+    <style type="text/css">
+    .footer_cnil {
+        display: none;
+        width: 100%;
+        height: 40px;
+        padding-top: 10px;
+        background-color: #1D1D1B;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        z-index: 10;
+        color: white;
+        font-family: 'Roboto', helvetica, arial, sans-serif;
+        font-size: 13px;
+        text-align: center;
+    }
+    .footer_cnil img {
+        float: right;
+        margin: 5px 10px 0 0;
+        cursor: pointer;
+    }
+    .footer_cnil span,
+    .footer_cnil span:hover {
+        text-decoration: underline;
+        cursor: pointer;
+    }
+</style>
+<script src="/sites/all/themes/slate/js/jquery.cookie.js"></script>
+<div class="footer_cnil">
+    En poursuivant votre navigation sur ce site, vous acceptez l’utilisation de cookies pour vous proposer des contenus et services adaptés à vos centres d’intérêts.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>En savoir plus...</span><img alt="Fermer" src="/sites/all/themes/slate/images/footer-cookies.png" />
+    <script type="text/javascript">
+    $(document).ready(function() {
+        var cnil = $.cookie('cnil_cookie');
+        $('.footer_cnil img').click(function() {
+            if(typeof cnil === 'undefined') {
+                $.cookie('cnil_cookie', '1', { expires: 365 });
+                $('.footer_cnil').css('display', 'none');
+            }
+        });
+        $('.footer_cnil span').click(function() {
+            if(typeof cnil === 'undefined') {
+                $.cookie('cnil_cookie', '1', { expires: 365 });
+                $('.footer_cnil').css('display', 'none');
+            }
+            var win = window.open('http://www.slate.fr/story/28817/mentions-legales', '_blank');
+            win.focus();
+        });
+        if(typeof cnil === 'undefined' || cnil != 1) {
+            $('.footer_cnil').css('display', 'block');
+        }
+    });
+    </script>
+</div>
+<footer class="slate_footer bg_grey">
+    <div class="width_wrap">
+        <div class="subscribers clearfix">
+    <div class="subscribe_fb bg_fb">
+        <p><span class="nb_subscribers">178 067</span> abonnés</p>
+        <div class="fb-like" data-href="https://www.facebook.com/SlateFrance" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+    </div>
+    <div class="subscribe_tw bg_tw">
+        <p><span class="nb_subscribers">364 140</span> abonnés</p>
+        <a href="https://twitter.com/Slatefr" class="twitter-follow-button" data-show-count="false" data-lang="fr">Suivre @Slatefr</a>
+    </div>
+    <div class="subscribe_gp bg_gp">
+        <p><span class="nb_subscribers">20 620</span> abonnés</p>
+        <div class="g-follow" data-annotation="none" data-height="20" data-href="https://plus.google.com/112783191501608043536" data-rel="publisher"></div>
+    </div>
+</div>        <ul class="footer_nav clearfix">
+            <li class="first">
+                <p class="footer_nav_title">Slate</p>
+                <ul>
+                    <li><a href="/archives">Archives</a></li>
+                    <li><a href="/rss.xml">RSS</a></li>
+                    <li><a href="http://www.slate.com/">Slate.com</a></li>
+                    <li><a href="http://www.slateafrique.com/">Slate Afrique</a></li>
+                    <li><a href="http://www.reader.fr/">Reader.fr</a></li>
+                </ul>
+            </li>
+            <li>
+                <p class="footer_nav_title">L’équipe</p>
+                <ul>
+                    <li><a href="/qui-sommes-nous">Qui sommes-nous ?</a></li>
+                    <li><a href="/fonctionnement">Comment fonctionne Slate ?</a></li>
+                    <li><a href="/charte-des-commentaires">La charte des commentaires</a></li>
+                </ul>
+            </li>
+            <li>
+                <p class="footer_nav_title">Les amis</p>
+                <ul>
+                    <li><a href="http://laregledujeu.org/">La règle du jeu</a></li>
+                    <li><a href="http://www.voxeurop.eu/fr">Presseurop</a></li>
+                    <li><a href="http://www.datagif.fr/">Datagif</a></li>
+                </ul>
+            </li>
+            <li>
+                <p class="footer_nav_title">CONTACTS</p>
+                <ul>
+                    <li><a href="/contacts">Rédaction</a></li>
+                    <li><a href="/contacts">Proposer une tribune</a></li>
+                    <li><a href="/contacts">Presse</a></li>
+                    <li><a href="/contacts">Annonceurs</a></li>
+                    <li><a href="/contacts">CV et stages</a></li>
+                </ul>
+            </li>
+        </ul>
+        <div class="footer_slate_bar">
+            <div class="footer_slate_logo"><a href="#"><img src="/sites/all/themes/slate/images/logo.svg" height="76" width="200" alt="slate.fr"></a></div>
+            <p class="legal_mentions">Tous droits réservés sur les contenus du site</p>
+        </div>
+    </div>
+</footer><script>
+    if(habillage == 1){
+        $('.content').css('background','none');
+        $('.content').css('width','1134px');
+        $('.content').css('margin-left','auto');
+        $('.content').css('margin-right','auto');
+        $('.full_article header').css('background','#ffffff');
+    }
+</script>
+<!-- begin chartbeat -->
+<script type='text/javascript'>
+    var _sf_async_config={};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 55880;
+    _sf_async_config.domain = 'slate.fr';
+    _sf_async_config.useCanonical = true;
+    _sf_async_config.sections = 'Sports';  //CHANGE THIS
+    _sf_async_config.authors = 'Slate.fr';    //CHANGE THIS
+    /** CONFIGURATION END **/
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+</script>
+<!-- end chartbeat -->
+    <script src="/sites/all/themes/slate/js/plugins.js"></script>
+    <script src="/sites/all/themes/slate/js/main.js?v=28"></script>
+    <script type="text/javascript">
+    $('#calendar').datepicker({
+        closeText: 'Fermer',
+        prevText: '',
+        nextText: '',
+        currentText: 'Aujourd\'hui',
+        monthNames: ['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre'],
+        dayNamesMin: ['dimanche','lundi','mardi','mercredi','jeudi','vendredi','samedi'],
+        weekHeader: 'Sm',
+        dateFormat: 'dd-mm-yy',
+        minDate: '01-02-09',
+        maxDate: '+0D',
+        inline: true,
+        firstDay: 1,
+        showOtherMonths: true,
+        onSelect: function(datetext) {
+            var months = {'01':'janvier','02':'fevrier','03':'mars','04':'avril','05':'mai','06':'juin','07':'juillet','08':'aout','09':'septembre','10':'octobre','11':'novembre','12':'decembre'};
+            var date = datetext.split('-');
+            if (date[0] < 10) date[0] = date[0].substr(1,1);
+            date[1] = months[date[1]];
+            window.location.href = '/archives/'+date[0]+'-'+date[1]+'-'+date[2];
+        }
+    });
+    </script>
+
+    <!-- Fb & Tw APIs -->
+    <div id="fb-root"></div>
+    <script>
+        // Fb
+        (function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id)) return;js=d.createElement(s);js.id=id;js.src="//connect.facebook.net/fr_FR/sdk.js#xfbml=1&appId=331756046878771&version=v2.0";fjs.parentNode.insertBefore(js,fjs);}(document,'script','facebook-jssdk'));
+        // Tw
+        !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+        // Gp
+        window.___gcfg = {lang: 'fr'};(function() {var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;po.src = 'https://apis.google.com/js/platform.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);})();
+    </script>
+    
+        <script type="text/javascript">
+    <!--
+    xtnv = document;        //parent.document or top.document or document         
+    xtsd = "http://logi104";
+    xtsite = "434081";
+    xtn2 = "";        // level 2 site ID
+    xtpage = "sports::petit_manuel___destination_des_clubs_de_foot_professionnels_pour_r_ussir_leur_mercato_d_hiver";        //page name (with the use of :: to create chapters)
+    xtdi = "";        //implication degree
+    xt_multc = "";      //all the xi indicators (like "&x1=...&x2=....&x3=...")
+    xt_an = "";        //user ID
+    xt_ac = "";        //category ID
+    xtidmod = "";      //ClickZone model id
+    xtergo = "";      //0 to deactivate ClickZone
+    //do not modify below
+    if (window.xtparam!=null){window.xtparam+="&ac="+xt_ac+"&an="+xt_an+xt_multc;}
+    else{window.xtparam="&ac="+xt_ac+"&an="+xt_an+xt_multc;};
+    //-->
+    </script>
+    <script type="text/javascript" src="/sites/all/themes/slate/js/xtclicks.js"></script>
+    <script type="text/javascript" src="/sites/all/themes/slate/js/xtcore.js"></script>
+    <noscript>
+    <img width="1" height="1" alt="" src="http://logi104.xiti.com/hit.xiti?s=434081&amp;s2=&amp;p=sports::petit_manuel___destination_des_clubs_de_foot_professionnels_pour_r_ussir_leur_mercato_d_hiver&amp;di=&amp;an=&amp;ac=" />
+    </noscript>
+
+    <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-7229822-2']);
+    _gaq.push(['_setDomainName', 'slate.fr']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+    </script>
+        <div id="wrapper_inread">
+    <script type="text/javascript">sas_pageid='59629/447027';sas_formatid=14321;sas_target='';SmartAdServer(sas_pageid,sas_formatid,sas_target);</script>    </div>
+    <script>
+/*    $(document).ready(function() { */
+    var paras = $('.main_content').children('p').not('.hat, .noinread');
+    var main_offset = ($('.hat').length > 0)?paras.first().offset().top:$('.main_content').offset().top;
+
+    $.each(paras, function(index, value){
+        var offset = $(this).offset();
+        if(offset.top - main_offset >= 650) {
+            $(this).before('<p id="inreadbis" style="display:block;background:#f2f2f2;min-width:0px;min-height:0px;margin:0px;position:relative;float:left;"></p>');
+            return false;
+        }
+    });
+    
+    var inread_src = document.getElementById("smartSrc14321");
+    inread_src.parentNode.removeChild(inread_src);
+    var inread_secure = document.getElementById("wrapper_inread");
+    document.getElementById("inreadbis").appendChild(inread_secure);
+    
+    $('#ebzNative').css('width','400px');
+    $('#ebzNative').css('height','225px');
+/* }); */
+</script>
+                <!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "14078442" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=14078442&amp;cv=2.0&amp;cj=1" alt="" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Begin estat/mediametrie Tag -->
+<script language="javascript">
+function _eStat_Whap_loaded_func(){
+eStatWhap.serial("800000207056");
+eStatWhap.send();
+}
+(function() {
+var myscript = document.createElement('script');
+myscript.src = ('https:' == document.location.protocol ? 'https://' :
+'http://') + 'w.estat.com/js/whap.js';
+myscript.setAttribute('async', 'true');
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(myscript, s);
+} )();
+</script>
+<!-- End estat/mediametrie Tag -->    <script type="text/javascript">sas_pageid='59629/447027';sas_formatid=14325;sas_target='';SmartAdServer(sas_pageid,sas_formatid,sas_target);</script>    <script type="text/javascript">sas_pageid='59629/447027';sas_formatid=14358;sas_target='';SmartAdServer(sas_pageid,sas_formatid,sas_target);</script></body>
+</html>
