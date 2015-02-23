@@ -1,0 +1,731 @@
+<!DOCTYPE html><html
+lang="fr-FR"><head><link
+rel='stylesheet' href='http://www.journaldugeek.com/wp-content/plugins/wp-minify/min/?f=wp-content/themes/geek/style.css,wp-content/themes/geek/css/switcher.css,wp-content/themes/geek/css/logitheque.css,wp-content/plugins/yet-another-related-posts-plugin/style/widget.css,wp-content/plugins/wp-to-twitter/css/twitter-feed.css,wp-content/plugins/wp-pagenavi/pagenavi-css.css,wp-content/plugins/jetpack/css/jetpack.css,wp-content/plugins/lightbox-gallery/lightbox-gallery.css,wp-content/themes/geek/js/class.popshow/popshow.css,wp-content/themes/geek/css/site-1/style.css&amp;m=1424683593' type='text/css' media='screen' /> <script type='text/javascript' src='http://www.journaldugeek.com/wp-content/plugins/wp-minify/min/?f=wp-includes/js/jquery/jquery.js,wp-includes/js/jquery/jquery-migrate.min.js,wp-content/themes/geek/js/sliders.js,wp-content/themes/geek/js/events.js,wp-content/themes/geek/js/jquery.cookie.js,wp-content/plugins/lightbox-gallery/js/jquery.lightbox.js,wp-content/plugins/lightbox-gallery/js/jquery.dimensions.js,wp-content/plugins/lightbox-gallery/js/jquery.bgiframe.js,wp-content/plugins/lightbox-gallery/js/jquery.tooltip.js,wp-content/plugins/lightbox-gallery/lightbox-gallery.js&amp;m=1424280666'></script> <meta
+http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Nicolas Cage va jouer dans le film d&rsquo;Oliver Stone consacré à Edward Snowden</title><meta
+name="google-site-verification" content="5Jd-IM-Lxl669shn3Dx6f2inRsK1Rl15Y6EBbJV0rE4" /><meta
+name="application-name" content="Le Journal du Geek !"/><meta
+name="msapplication-tooltip" content="D&eacute;marrer JDG"/><meta
+name="msapplication-starturl" content="/"/><meta
+name="msapplication-window" content="width=1024;height=768"/><meta
+name="msapplication-task" content="name=Forum;action-uri=/forum/;icon-uri=http://www.journaldugeek.com/wp-content/themes/geek/favicon/fav1.ico"/><meta
+name="msapplication-task" content="name=Tests;action-uri=/category/tests-et-impressions/;icon-uri=http://www.journaldugeek.com/wp-content/themes/geek/favicon/fav1.ico"/><meta
+name="msapplication-task" content="name=YouTube;action-uri=http://www.youtube.com/user/JournalduGeek;icon-uri=http://www.journaldugeek.com/wp-content/themes/geek/favicon/youtube.ico"/><meta
+name="msapplication-task" content="name=Facebook;action-uri=http://www.facebook.com/lejournaldugeek;icon-uri=http://www.journaldugeek.com/wp-content/themes/geek/favicon/facebook.ico"/><meta
+name="msapplication-task" content="name=Twitter;action-uri=http://twitter.com/JournalDuGeek;icon-uri=http://www.journaldugeek.com/wp-content/themes/geek/favicon/twitter.ico"/><meta
+name="viewport" content="width=980" /><link
+rel="image_src" href="http://www.journaldugeek.com/files/2015/02/vampires-kiss-220x150.jpg" /><link
+rel="shortcut icon" href="http://www.journaldugeek.com/wp-content/themes/geek/favicon/fav1.ico" /><link
+rel="alternate" type="application/rss+xml" title="Le Journal du Geek Blog Posts RSS Feed" href="http://www.journaldugeek.com/feed/" /><link
+rel="alternate" type="application/atom+xml" title="Le Journal du Geek Blog Posts Atom Feed" href="http://www.journaldugeek.com/feed/atom/" /><link
+rel="apple-touch-icon" type="image/png" href="/apple-touch-icon.png" /><link
+rel="pingback" href="http://www.journaldugeek.com/xmlrpc.php" /><link
+href="https://plus.google.com/u/0/114029533166101894169/posts" rel="publisher" /><meta
+name="description" content="Le prochain film d&#039;Oliver Stone nous racontera l&#039;histoire d&#039;Edward Snowden, qui est actuellement réfugié en Russie. Et aujourd&#039;hui, nous apprenons que Nicolas Cage rejoint le projet. &lt;img src=http://www.journaldugeek.com/files/2015/02/vampires-kiss-600x340." /><meta
+name="keywords" content="cinema, edward snowden, film, nicolas cage, oliver stone" /><meta
+name="twitter:site" content="@JournalDuGeek" /><meta
+name="twitter:domain" content="journaldugeek.com" /><meta
+name="twitter:app:id:iphone" content="541881667"><meta
+name="twitter:app:id:ipad" content="541881667"><meta
+name="twitter:app:id:googleplay" content="com.journaldugeek.app"><meta
+name="twitter:app:url:iphone" content="https://itunes.apple.com/fr/app/journal-du-geek-officiel/id541881667?mt=8"><meta
+name="twitter:app:url:ipad" content="https://itunes.apple.com/fr/app/journal-du-geek-officiel/id541881667?mt=8"><meta
+name="twitter:app:url:googleplay" content="https://play.google.com/store/apps/details?id=com.journaldugeek.app"><meta
+name="twitter:card" content="summary" /><meta
+name="twitter:title" content="Nicolas Cage va jouer dans le film d&rsquo;Oliver Stone consacré à Edward Snowden" /><meta
+name="twitter:description" content="Le prochain film d&#039;Oliver Stone nous racontera l&#039;histoire d&#039;Edward Snowden, qui est actuellement réfugié en Russie. Et aujourd&#039;hui, nous apprenons que Nicolas Cage rejoint le projet. &lt;img src=http://www.journaldugeek.com/files/2015/02/vampires-kiss-600x340." /><meta
+name="twitter:image:src" content="http://www.journaldugeek.com/files/2015/02/vampires-kiss-600x340.jpg" /><meta
+name="twitter:image:width" content="600" /><meta
+name="twitter:image:height" content="340" /><meta
+name="description"  content="Le prochain film d'Oliver Stone nous racontera l'histoire d'Edward Snowden, qui est actuellement réfugié en Russie. Et aujourd'hui, nous apprenons que Nicolas" /><link
+rel="canonical" href="http://www.journaldugeek.com/2015/02/23/nicolas-cage-va-jouer-dans-le-film-doliver-stone-consacre-a-edward-snowden/" /><link
+rel="alternate" type="application/rss+xml" title="Le Journal du Geek &raquo; Nicolas Cage va jouer dans le film d&rsquo;Oliver Stone consacré à Edward Snowden Flux des commentaires" href="http://www.journaldugeek.com/2015/02/23/nicolas-cage-va-jouer-dans-le-film-doliver-stone-consacre-a-edward-snowden/feed/" /> <script type='text/javascript' src='http://platform.twitter.com/widgets.js?ver=4.1.1'></script> <link
+rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.journaldugeek.com/xmlrpc.php?rsd" /><link
+rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.journaldugeek.com/wp-includes/wlwmanifest.xml" /><link
+rel='prev' title='[Pendant ce temps, au Japon] Sanrio dévoile des toilettes Hello Kitty' href='http://www.journaldugeek.com/2015/02/23/pendant-ce-temps-au-japon-sanrio-devoile-des-toilettes-hello-kitty/' /><meta
+name="generator" content="WordPress 4.1.1, fitted with the WordPress Mobile Pack 1.2.4" /><link
+rel='shortlink' href='http://www.journaldugeek.com/?p=264404' /> <style type="text/css" media="screen">.ckrating_highly_rated {;}
+   .ckrating_poorly_rated {;}
+   .ckrating_hotly_debated {;}</style><meta
+name="twitter:card" content="summary" /><meta
+name="twitter:site" content="@JournalDuGeek" /><meta
+name="twitter:url" content="http://www.journaldugeek.com/2015/02/23/nicolas-cage-va-jouer-dans-le-film-doliver-stone-consacre-a-edward-snowden/" /><meta
+name="twitter:title" content="Nicolas Cage va jouer dans le film d&rsquo;Oliver Stone consacré à Edward Snowden" /><meta
+name="twitter:description" content="Le prochain film d'Oliver Stone nous racontera l'histoire d'Edward Snowden, qui est &hellip;" /> <script type='text/javascript'>var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') +  '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();</script> <script type='text/javascript'>googletag.cmd.push(function() {
+			ad_slots = [];
+        					ad_slots.push(googletag.defineSlot('/4327929/huge_banner_HP', [[1, 1], [728, 90], [1000, 90], [1000, 250], [1000, 300], [1920, 1200]], 'div-gpt-ad-1380212440352-0').addService(googletag.pubads()));
+				ad_slots.push(googletag.defineSlot('/4327929/JDGeek_300x250_1', [[300, 250], [300, 600], [300, 900]], 'div-gpt-ad-1380187529042-2').addService(googletag.pubads()));
+				ad_slots.push(googletag.defineSlot('/4327929/JDGeek_300x250_2', [[300, 250], [300, 600]], 'div-gpt-ad-1380187529042-3').addService(googletag.pubads()));
+				ad_slots.push(googletag.defineSlot('/4327929/JDGeek_300x250_3', [[300, 250], [300, 600]], 'div-gpt-ad-1380187529042-4').addService(googletag.pubads()));
+				ad_slots.push(googletag.defineSlot('/4327929/JDGeek_728x90', [[728, 90], [1000, 90], [1000, 250], [1000, 300], [1920, 1200]], 'div-gpt-ad-1380187529042-5').addService(googletag.pubads()));
+				ad_slots.push(googletag.defineSlot('/4327929/JDGeek_HP_2', [300, 250], 'div-gpt-ad-1380187529042-6').addService(googletag.pubads()));
+				ad_slots.push(googletag.defineSlot('/4327929/JDGeek_pixel', [[1, 1], [1920, 1200]], 'div-gpt-ad-1382107604767-0').addService(googletag.pubads()));
+				ad_slots.push(googletag.defineSlot('/4327929/JDGNews_30J-300x250', [[300, 250], [300, 600]], 'div-gpt-ad-1381236828860-0').addService(googletag.pubads()));
+				ad_slots.push(googletag.defineSlot('/4327929/MEA_JDGeek', [[300, 87], [300, 100], [300, 150], [300, 200], [300, 250], [300, 600]], 'div-gpt-ad-1381137331114-0').addService(googletag.pubads()));
+				ad_slots.push(googletag.defineSlot('/4327929/JDGeek_Ligatus', [600, 288], 'div-gpt-ad-1390301220344-0').addService(googletag.pubads()));
+				ad_slots.push(googletag.defineSlot('/4327929/Jdgeek_Feed_article', [[1, 1], [300, 250], [300, 600], [600, 288], [600, 350]], 'div-gpt-ad-1398870640707-0').addService(googletag.pubads()));
+				ad_slots.push(googletag.defineSlot('/4327929/Pixel_Teads_Inread', [1, 1], 'div-gpt-ad-1398345871934-0').addService(googletag.pubads()));
+				ad_slots.push(googletag.defineSlot('/4327929/bloc_menu_JDGeek', [134, 40], 'div-gpt-ad-1415186630008-0').addService(googletag.pubads()));
+        				//googletag.pubads().enableSingleRequest();
+            //Targeting
+            googletag.pubads().setTargeting("Rotation", "article");
+            googletag.pubads().setTargeting("categories", ["Cinema"]);
+googletag.pubads().setTargeting("marque", ["Edward Snowden","film","Nicolas Cage","oliver stone"]);
+            googletag.enableServices();
+        });</script> <script>window._popup_data = {"ajaxurl":"http:\/\/www.journaldugeek.com\/wp-admin\/admin-ajax.php","do":"get_data","ajax_data":{"orig_request_uri":"\/2015\/02\/23\/nicolas-cage-va-jouer-dans-le-film-doliver-stone-consacre-a-edward-snowden\/"}};</script><!--[if IE 6]><link
+rel="stylesheet" href="http://www.journaldugeek.com/wp-content/themes/geek/css/ie/ie6.css" type="text/css" media="screen" /> <![endif]--> <!--[if IE 7]><link
+rel="stylesheet" href="http://www.journaldugeek.com/wp-content/themes/geek/css/ie/ie7.css" type="text/css" media="screen" /> <![endif]--> <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+ <script type="text/javascript">window._taboola = window._taboola || [];
+		_taboola.push({article:'auto'});
+		!function (e, f, u) {
+			e.async = 1;
+			e.src = u;
+			f.parentNode.insertBefore(e, f);
+		}(document.createElement('script'),
+		document.getElementsByTagName('script')[0],
+		'http://cdn.taboola.com/libtrc/jdgmedia-network/loader.js');</script> </head><body
+class="single single-post postid-264404 single-format-standard"><div
+id="intersticielmobile">Avez vous essayé notre site mobile ? <a
+href="http://m.journaldugeek.com/2015/02/23/nicolas-cage-va-jouer-dans-le-film-doliver-stone-consacre-a-edward-snowden/mob/">m.journaldugeek.com</a> <a
+href="#" id="closeintersticielmobile">[X]</a></div> <script type="text/javascript">if( navigator.userAgent.match(/Android/i)
+     || navigator.userAgent.match(/webOS/i)
+     || navigator.userAgent.match(/iPhone/i)
+     || navigator.userAgent.match(/iPad/i)
+     || navigator.userAgent.match(/iPod/i)
+     || navigator.userAgent.match(/BlackBerry/i)
+     ){
+     //alert('Mob !');
+     // some code..
+     if(!jQuery.cookie('hideIntersticielMobile')) jQuery("#intersticielmobile").slideDown('slow');
+    }
+    jQuery("#closeintersticielmobile").click(function() {
+    //cookies out
+    jQuery.cookie('hideIntersticielMobile', 1);
+    jQuery("#intersticielmobile").slideUp();
+    });</script> <script type="text/javascript">//init_carousel();</script> <div
+id="header"><div
+class="header-inner"><div
+class="header-top"><div
+class="trends-topics"> <span>Tendances :</span><ul
+id="menu-menu-tendances" class="menu"><li
+id="menu-item-262749" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-262749"><a
+title="Samsung Galaxy S6" href="http://www.journaldugeek.com/tag/galaxy-s6/">Galaxy S6</a></li><li
+id="menu-item-262748" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-262748"><a
+href="http://www.journaldugeek.com/tag/xperia-z4/">Xperia Z4</a></li><li
+id="menu-item-162120" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-162120"><a
+title="HTC M9" href="http://www.journaldugeek.com/tag/htc-m9/">HTC M9</a></li><li
+id="menu-item-193821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-193821"><a
+title="Apple iPhone 6" href="http://www.journaldugeek.com/tag/iphone-6/">iPhone 6</a></li><li
+id="menu-item-217594" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-217594"><a
+href="http://www.journaldugeek.com/2014/06/05/test-lg-g3/">LG G3</a></li><li
+id="menu-item-161984" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-161984"><a
+href="http://www.journaldugeek.com/tag/iphone-5/">iPhone 5S</a></li><li
+id="menu-item-181787" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181787"><a
+title="Samsung Galaxy S5" href="http://www.journaldugeek.com/2014/04/10/test-samsung-galaxy-s5/">Test Galaxy S5</a></li><li
+id="menu-item-148589" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-148589"><a
+title="Box Geek" href="http://www.jdgbox.com/">Geek Box</a></li><li
+id="menu-item-129768" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-129768"><a
+href="http://www.journaldugeek.com/tag/jeu-concours/">jeu-concours</a></li></ul></div><div
+class="contact-us"> <a
+href="http://www.journaldugeek.com/contactez-nous/">Nous contacter</a></div></div><div
+class="logo"><h1><a
+href="http://www.journaldugeek.com" title="Home">Le Journal du Geek</a></h1></div><div
+id="searform"><form
+id="searchform2" method="get" action="http://www.journaldugeek.com/"><fieldset> <span> <input
+name="s" type="text" placeholder="Rechercher" id="topsearch" class="form_input" /> <input
+class="form_search_submit" type="submit" value="Rechercher" /> </span></fieldset></form></div><div
+id="jdgn-switcher"><ul><li
+class="geek"><a
+href="http://www.journaldugeek.com">Journal du Geek</a></li><li
+class="gamer"><a
+href="http://www.journaldugamer.com">Journal du Gamer</a></li><li
+class="buzz"><a
+href="http://www.jdubuzz.com">Journal du Buzz</a></li><li
+class="graphic"><a
+href="http://www.journalgraphic.com">Journal Graphic</a></li><li
+class="pixelistes"><a
+href="http://www.pixelistes.com/blog/">Pixelistes</a></li><li
+class="jdgbox"><a
+href="http://www.jdgbox.com/">JDG Box</a></li></ul></div> <a
+class="jdgnetwork" title="JDG Network">JDG network</a></div></div><div
+id="mainmenu1" class="mainmenu"><div
+class="mainmenu-inner"><ul
+class="navigation"><li
+class="cat-item-1 "><a
+href="http://www.journaldugeek.com" class="item1"><span> Accueil </span></a></li><li
+class="lilast"><a
+href="/page/2/" class="item2"><span>News</span></a></li><li
+class="lilast" id="linkcat"><a
+href="#" class="item3"><span>Catégories</span></a></li><li
+class="lilast"><a
+href="http://www.journaldugeek.com/category/tests-et-impressions/" class="item4"><span>Tests</span></a></li><li
+class="liforum"><a
+href="/forum/" class="itemforum"><span>Forum</span></a></li><li
+class="liforum"><a
+href="/category/business/" ><span>Business</span></a></li><li
+class="liforum"><a
+href="http://www.journaldugeek.com/catalogue/" ><span>Shopping</span></a></li><li
+class="liforum" style="background-color: #882a4d;"><a
+href="http://www.jdgbox.com/" target="_blank"><span
+style="color:#fff;text-shadow:1px 1px 0 rgba(0, 0, 0, 1);">JDGBox</span></a></li><li
+class="liforum"><a
+href="http://jdgmedia.fr/goto/LesJeudisGe" ><img
+src="http://www.journaldugeek.com/wp-content/themes/geek/images/lesjeudis.png" style="margin: -14px -10px 0 -11px;"></a></li><li
+class="liforum"><div
+id='div-gpt-ad-1415186630008-0' style='width:134px; height:40px;'> <script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1415186630008-0'); });</script> </div></li></ul><ul
+class="login-or-register"><li
+class="register"><a
+href="/register/"><span>Inscription</span></a></li><li
+class="login"> <a
+href="#"><span>Connexion</span></a><div
+class="login-panel"><form
+method="post" id="loginform" class="jdg-forms" action="http://www.journaldugeek.com/login/"><fieldset><ol><li
+class="textbox"> <span><input
+type="text" id="email" name="log" value="pseudo" onClick="javascript:this.value=''" /></span></li><li
+class="textbox"> <span><input
+type="password" id="pwd" name="pwd" value="motdepasse" title="password" onClick="javascript:this.value=''" /></span></li><li
+class="btn-submit"> <button
+type="submit" name="submit" id="signin-submit">Connexion</button></li><li
+class="checkbox"> <input
+type="checkbox" id="rememberme" name="rememberme" value="forever" /> <label
+for="rememberme">Se souvenir de moi</label></li></ol></fieldset></form> <a
+class="forgotpwd" href="http://www.journaldugeek.com/login/#forgotpassform">Mot de passe oubli&eacute; ?</a></div></li></ul> <script type="text/javascript" language="Javascript">function init_logged_in() {
+        if(jQuery.cookie('member_id') && !jQuery.cookie('beloggedin') && !jQuery.cookie('alphaCheck')){
+            jQuery.get('/wp-content/themes/geek/nocache-loggedin.php');
+            //new Request.HTML({async:false,url:'/wp-content/themes/geek/nocache-loggedin.php'}).send();
+            var alphaCheck = jQuery.cookie('alphaCheck', 1);
+            }
+        if(!jQuery.cookie('beloggedin'))
+           return;
+        jQuery.get('/wp-content/themes/geek/nocache-loggedin.php', function(data) {
+          //$('.result').html(data);
+          jQuery('.login-or-register').after('<div class="logged">' + data + '</div>');
+          jQuery('.login-or-register').remove();
+        });
+    }
+    init_logged_in();</script> </div></div><div
+id="mainmenucontainer"><div
+class="submainmenu childitem2" id="submainmenu1"><ul><li><a
+href="http://www.journaldugeek.com/category/annonces/">Annonces</a></li><li><a
+href="http://www.journaldugeek.com/category/apple-2/">Apple</a></li><li><a
+href="http://www.journaldugeek.com/category/audio-portable/">Audio Portable</a></li><li><a
+href="http://www.journaldugeek.com/category/business/">Business</a></li><li><a
+href="http://www.journaldugeek.com/category/buzz-2/">Buzz</a></li><li><a
+href="http://www.journaldugeek.com/category/chroniques/">Chroniques</a></li><li><a
+href="http://www.journaldugeek.com/category/cinema-2/">Cinema</a></li><li><a
+href="http://www.journaldugeek.com/category/chronique-culture-geek/">Culture geek</a></li></ul><ul><li><a
+href="http://www.journaldugeek.com/category/domotique/">Domotique</a></li><li><a
+href="http://www.journaldugeek.com/category/dossiers-comparatifs/">Dossiers / Comparatifs</a></li><li><a
+href="http://www.journaldugeek.com/category/evenements/">Evenements</a></li><li><a
+href="http://www.journaldugeek.com/category/gadgets/">Gadgets</a></li><li><a
+href="http://www.journaldugeek.com/category/general/">Général</a></li><li><a
+href="http://www.journaldugeek.com/category/graphic/">Graphic</a></li><li><a
+href="http://www.journaldugeek.com/category/hardware/">Hardware</a></li><li><a
+href="http://www.journaldugeek.com/category/hifi-audio/">Hifi, Audio</a></li></ul><ul><li><a
+href="http://www.journaldugeek.com/category/home-cinema/">Home Cinema</a></li><li><a
+href="http://www.journaldugeek.com/category/hors-sujet/">Hors sujet</a></li><li><a
+href="http://www.journaldugeek.com/category/jdg-network/">JDG Network</a></li><li><a
+href="http://www.journaldugeek.com/category/jeux-video/">Jeux-Video</a></li><li><a
+href="http://www.journaldugeek.com/category/logiciels-applications/">Logiciels, Apps</a></li><li><a
+href="http://www.journaldugeek.com/category/moniteurs/">Moniteurs</a></li><li><a
+href="http://www.journaldugeek.com/category/multimedia-portable/">Multimedia portable</a></li><li><a
+href="http://www.journaldugeek.com/category/non-classe/">Non classé</a></li></ul><ul><li><a
+href="http://www.journaldugeek.com/category/ordinateurs/">Ordinateurs</a></li><li><a
+href="http://www.journaldugeek.com/category/phillipe-malouin/">Périphériques</a></li><li><a
+href="http://www.journaldugeek.com/category/photo/">Photo</a></li><li><a
+href="http://www.journaldugeek.com/category/pnd-gps/">PND / GPS</a></li><li><a
+href="http://www.journaldugeek.com/category/prise-en-mains/">Prise en mains</a></li><li><a
+href="http://www.journaldugeek.com/category/projection/">Projection</a></li><li><a
+href="http://www.journaldugeek.com/category/retrogeek/">RetroGeek</a></li><li><a
+href="http://www.journaldugeek.com/category/robots/">Robots</a></li></ul><ul><li><a
+href="http://www.journaldugeek.com/category/securite/">Sécurité</a></li><li><a
+href="http://www.journaldugeek.com/category/sur-le-web/">Sur le web</a></li><li><a
+href="http://www.journaldugeek.com/category/tablettes/">Tablettes</a></li><li><a
+href="http://www.journaldugeek.com/category/telephonie/">Téléphonie</a></li><li><a
+href="http://www.journaldugeek.com/category/televiseurs/">Téléviseurs</a></li><li><a
+href="http://www.journaldugeek.com/category/tests-et-impressions/">Tests et Impressions</a></li></ul></div><div
+class="submainmenu childitem4" id="submainmenu4"><div
+class="submenu-background"><div
+id="submenu-desktop-container" class="submenu-container"><h5 id="submenu-desktop"> <a
+href="http://www.journaldugeek.com/os-logiciel/linux/" title="Linux">Linux</a> / <a
+href="http://www.journaldugeek.com/os-logiciel/mac/" title="Mac OS X">Mac OS X</a> / <a
+href="http://www.journaldugeek.com/os-logiciel/windows/" title="Windows">Windows</a></h5><ul><li> <a
+href="http://www.journaldugeek.com/categorie-logiciel/bureautique/" title="Bureautique">Bureautique</a></li><li> <a
+href="http://www.journaldugeek.com/categorie-logiciel/communication/" title="Communication">Communication</a></li><li> <a
+href="http://www.journaldugeek.com/categorie-logiciel/developpement/" title="Développement">Développement</a></li><li> <a
+href="http://www.journaldugeek.com/categorie-logiciel/extensions/" title="Extensions">Extensions</a></li><li> <a
+href="http://www.journaldugeek.com/categorie-logiciel/graphisme/" title="Graphisme">Graphisme</a></li><li> <a
+href="http://www.journaldugeek.com/categorie-logiciel/internet/" title="Internet">Internet</a></li></ul><ul><li> <a
+href="http://www.journaldugeek.com/categorie-logiciel/loisirs/" title="Loisirs">Loisirs</a></li><li> <a
+href="http://www.journaldugeek.com/categorie-logiciel/multimedia/" title="Multimédia">Multimédia</a></li><li> <a
+href="http://www.journaldugeek.com/categorie-logiciel/navigateur/" title="Navigateur">Navigateur</a></li><li> <a
+href="http://www.journaldugeek.com/categorie-logiciel/personnalisation/" title="Personnalisation">Personnalisation</a></li><li> <a
+href="http://www.journaldugeek.com/categorie-logiciel/securite/" title="Sécurité">Sécurité</a></li><li> <a
+href="http://www.journaldugeek.com/categorie-logiciel/knc/" title="Utilitaires">Utilitaires</a></li></ul></div><div
+id="searchform-soft"><form
+id="searchform-soft2" method="get" action="/search-soft/"><input
+name="sl" type="text" placeholder="Rechercher un logiciel" id="searchform-soft-input" class="searchform-soft-input" /> <input
+class="searchform-soft-submit" type="submit" value="Rechercher" /></form></div> <script type="text/javascript">/*   if($('searchform-soft-label')){
+                                            function __hideLabel2(e){
+                                                    $('searchform-soft-label').hide();
+                                                    $('searchform-soft-input').set('value', '');
+                                            }
+                                            $('searchform-soft-label').addEvent('click',__hideLabel2);
+                                            $('searchform-soft-input').addEvent('focus',__hideLabel2);
+                                            $('searchform-soft-input').addEvent('blur', function(e){
+                                                    if( $('searchform-soft-input').get('value') == "" ){
+                                                            $('searchform-soft-label').show();
+                                                    }
+                                            });
+                                    }    */</script> </div></div></div><div
+class="blockadd"><div
+id='div-gpt-ad-1380187529042-5'> <script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1380187529042-5'); });</script> </div></div><div
+class="wrapper"><div
+class="content col col_600"><div
+id="entry-264404" class="post-single"><div
+class="section-title"><div
+class="post-avatar"> <a
+href="/member/view/white+fox/" title="Pierre"><img
+class="avatar" alt="Pseudo" src="/wp-content/uploads/avatars/70x70_1392646884.jpg"/></a></div><div
+class="post-title"><h2>Nicolas Cage va jouer dans le film d&rsquo;Oliver Stone consacré à Edward Snowden</h2><p
+class="metadata"> Par <a
+href="/member/view/white+fox/" title="Pierre">Pierre</a>, 23 février 2015 &agrave; 16:05 <span><a
+href="http://www.journaldugeek.com/category/cinema-2/">Cinema</a></span> <span
+class="comment-nbr"><a
+href="http://www.journaldugeek.com/2015/02/23/nicolas-cage-va-jouer-dans-le-film-doliver-stone-consacre-a-edward-snowden/#comments">0 avis</a></span></p></div></div><div
+class="post-content"><p>Le prochain film d&rsquo;Oliver Stone nous racontera l&rsquo;histoire d&rsquo;Edward Snowden, qui est actuellement réfugié en Russie. Et aujourd&rsquo;hui, <strong>nous apprenons que Nicolas Cage rejoint le projet.</strong></p><p><a
+href="http://www.journaldugeek.com/files/2015/02/vampires-kiss.jpg"><img
+src="http://www.journaldugeek.com/files/2015/02/vampires-kiss-600x340.jpg" alt="vampires-kiss" width="600" height="340" class="aligncenter size-medium wp-image-264405" /></a></p><p><span
+id="more-264404"></span></p><p>Dans le film d&rsquo;Olivers Stone, qui sera inspiré du livre T<em>he Snowden Files: The Inside Story of the World’s Most Wanted Man</em> écrit par Luke Harding, <a
+href="http://www.journaldugeek.com/2014/11/12/joseph-gordon-levitt-va-jouer-edward-snowden-au-cinema/" target="_blank">Edward Snowden sera incarné par Joseph Gordon-Levitt.</a> Nicolas Cage, lui, incarnera un responsable de la NSA, sans doute l’antagoniste principal du film.</p><p><strong>Ce sera la deuxième fois que Cage collaborera avec Stone. </strong>Les deux hommes avaient en effet travaillé ensemble sur World Trade Center en 2006. Notons que Shailene Woodley, Melissa Leo et Zachary Quinto sont également au casting.</p></div><p><a
+href="http://variety.com/2015/film/news/nicolas-cage-joins-oliver-stones-snowden-1201439516/" rel="nofollow" target="_blank" class="more">Source</a></p><div
+id="mb_container"> <script type="text/javascript">(function(){
+				  var sc = document.createElement('script');
+				  sc.src = 'http://player.mediabong.com/se/398.js?url='+encodeURIComponent(document.location.href)+'&cat='+encodeURIComponent("Cinema");				  sc.type = 'text/javascript';
+				  sc.async = true;
+				  var s = document.getElementsByTagName('script')[0];
+				  s.parentNode.insertBefore(sc, s);
+				})();</script> </div> <br/><br/><div
+style="width:600px"><div
+style="width:100%;margin:0px;padding:0px;background:transparent url(http://img.shopping.com/jfe/bb/common/boxTopLeft2.gif) no-repeat left top;"><div
+style="margin:0px 0px 0px 10px;padding:0px 10px 0px 0px;background:transparent url(http://img.shopping.com/jfe/bb/common/boxTopRt7.gif) no-repeat right top;"><div
+style="width:100%;color:#333;font-weight:bold;font-family:arial,Helvetica,sans-serif;margin:0px;padding:12px 0px 6px 0px;border-bottom:4px double #ccc;">Le JDG vous recommande</div></div></div><div
+style="margin:0px;padding:0px;background:transparent url(http://img.shopping.com/jfe/bb/common/boxMidLeft.gif) repeat-y;"><div
+style="width:100%;margin:0px;padding-bottom:10px;padding-top:10px;background:transparent url(http://img.shopping.com/jfe/bb/common/boxMidRt.gif) repeat-y right;"><table
+cellspacing="0" cellpadding="0" border="0" style="width:100%;"><tbody><tr
+style="background-color:transparent;"><td
+style="width:100px;vertical-align:top;padding:0px;font-weight:bold;font-family:arial,Helvetica,sans-serif;font-size:11px;border-right: 1px solid #ccc;"><div
+style="text-align:center;margin:10px"><a
+href="http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1424703953727&.sig=Jbo0t8xnGrxmIxbxg9Vf2s20D94-&offerId=ebaa3eb3247a28f71900b37210d8ef39&searchId=1076981215885_1424703953714_2484733&affiliationId=96945274&country=fr&wait=true&ecs=ok&contextLevel=1&merchantid=11653513&comId=11653513&catId=149201&searchQuery=dGhlIGZpZnRoIGVzdGF0ZQ==&useSearch6=true&contextOfferPosition=1" style="color:#c37089;text-decoration:none;" target="_blank" title="The Fifth Estate (Blu Ray / Dvd + Digital Copy)"><img
+style="margin-bottom:5px;width:75px;height:75px;border:0px;" src="http://r.kelkoo.com/r/fr/11653513/149201/90/90/http%3A%2F%2Fpmcdn.staticpmrk.com%2Fphoto%2F1000814823_L.jpg/3LlqPiueBeiNLEp9rA.nQFuj0ulK0gJ80CoHModnfDw-" alt="The Fifth Estate (Blu Ray / Dvd + Digital Copy)"></a><div
+style="text-align:left;vertical-align:top;"><a
+href="http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1424703953727&.sig=Jbo0t8xnGrxmIxbxg9Vf2s20D94-&offerId=ebaa3eb3247a28f71900b37210d8ef39&searchId=1076981215885_1424703953714_2484733&affiliationId=96945274&country=fr&wait=true&ecs=ok&contextLevel=1&merchantid=11653513&comId=11653513&catId=149201&searchQuery=dGhlIGZpZnRoIGVzdGF0ZQ==&useSearch6=true&contextOfferPosition=1" style="color:#c37089;text-decoration:none;display:block;height:50%;margin-bottom:10px;font-weight:bold;" target="_blank" title="The Fifth Estate (Blu Ray / Dvd + Digital Copy)">The Fifth Estate (Bl...</a><div
+style="margin:0px 0px 5px 0px;font-weight:bold;">Meilleur prix : <a
+href="http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1424703953727&.sig=Jbo0t8xnGrxmIxbxg9Vf2s20D94-&offerId=ebaa3eb3247a28f71900b37210d8ef39&searchId=1076981215885_1424703953714_2484733&affiliationId=96945274&country=fr&wait=true&ecs=ok&contextLevel=1&merchantid=11653513&comId=11653513&catId=149201&searchQuery=dGhlIGZpZnRoIGVzdGF0ZQ==&useSearch6=true&contextOfferPosition=1" style="text-decoration:none;color:#8bb60b;font-weight:normal;" target="_blank" title="The Fifth Estate (Blu Ray / Dvd + Digital Copy)">14.74&nbsp;&euro;</a></div> chez <a
+href="http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1424703953727&.sig=Jbo0t8xnGrxmIxbxg9Vf2s20D94-&offerId=ebaa3eb3247a28f71900b37210d8ef39&searchId=1076981215885_1424703953714_2484733&affiliationId=96945274&country=fr&wait=true&ecs=ok&contextLevel=1&merchantid=11653513&comId=11653513&catId=149201&searchQuery=dGhlIGZpZnRoIGVzdGF0ZQ==&useSearch6=true&contextOfferPosition=1" style="text-decoration:none;color:#8bb60b;font-weight:normal;" target="_blank" title="Priceminister Neuf">Priceminister Neuf</a></div></div></td><td
+style="width:100px;vertical-align:top;padding:0px;font-weight:bold;font-family:arial,Helvetica,sans-serif;font-size:11px;border-right: 1px solid #ccc;"><div
+style="text-align:center;margin:10px"><a
+href="http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1424703953728&.sig=M7pL9Dg9HwcvAFfBncPKQiXRpCw-&offerId=8ae81c876a20e2082df3d3ace3cddf48&searchId=1076981215885_1424703953714_2484733&affiliationId=96945274&country=fr&wait=true&ecs=ok&contextLevel=1&merchantid=3012701&comId=3012701&catId=149201&searchQuery=dGhlIGZpZnRoIGVzdGF0ZQ==&useSearch6=true&contextOfferPosition=2" style="color:#c37089;text-decoration:none;" target="_blank" title="The Fifth Estate (Blu Ray / Dvd + Digital Copy)"><img
+style="margin-bottom:5px;width:75px;height:75px;border:0px;" src="http://r.kelkoo.com/r/fr/3012701/149201/90/90/http%3A%2F%2Fpmcdn.staticpmrk.com%2Fphoto%2F1000814823_L.jpg/3LlqPiueBeiNLEp9rA.nQFuj0ulK0gJ80CoHModnfDw-" alt="The Fifth Estate (Blu Ray / Dvd + Digital Copy)"></a><div
+style="text-align:left;vertical-align:top;"><a
+href="http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1424703953728&.sig=M7pL9Dg9HwcvAFfBncPKQiXRpCw-&offerId=8ae81c876a20e2082df3d3ace3cddf48&searchId=1076981215885_1424703953714_2484733&affiliationId=96945274&country=fr&wait=true&ecs=ok&contextLevel=1&merchantid=3012701&comId=3012701&catId=149201&searchQuery=dGhlIGZpZnRoIGVzdGF0ZQ==&useSearch6=true&contextOfferPosition=2" style="color:#c37089;text-decoration:none;display:block;height:50%;margin-bottom:10px;font-weight:bold;" target="_blank" title="The Fifth Estate (Blu Ray / Dvd + Digital Copy)">The Fifth Estate (Bl...</a><div
+style="margin:0px 0px 5px 0px;font-weight:bold;">Meilleur prix : <a
+href="http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1424703953728&.sig=M7pL9Dg9HwcvAFfBncPKQiXRpCw-&offerId=8ae81c876a20e2082df3d3ace3cddf48&searchId=1076981215885_1424703953714_2484733&affiliationId=96945274&country=fr&wait=true&ecs=ok&contextLevel=1&merchantid=3012701&comId=3012701&catId=149201&searchQuery=dGhlIGZpZnRoIGVzdGF0ZQ==&useSearch6=true&contextOfferPosition=2" style="text-decoration:none;color:#8bb60b;font-weight:normal;" target="_blank" title="The Fifth Estate (Blu Ray / Dvd + Digital Copy)">22.02&nbsp;&euro;</a></div> chez <a
+href="http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1424703953728&.sig=M7pL9Dg9HwcvAFfBncPKQiXRpCw-&offerId=8ae81c876a20e2082df3d3ace3cddf48&searchId=1076981215885_1424703953714_2484733&affiliationId=96945274&country=fr&wait=true&ecs=ok&contextLevel=1&merchantid=3012701&comId=3012701&catId=149201&searchQuery=dGhlIGZpZnRoIGVzdGF0ZQ==&useSearch6=true&contextOfferPosition=2" style="text-decoration:none;color:#8bb60b;font-weight:normal;" target="_blank" title="PriceMinister Occasions">PriceMinister Occasions</a></div></div></td><td
+style="width:100px;vertical-align:top;padding:0px;font-weight:bold;font-family:arial,Helvetica,sans-serif;font-size:11px;border-right: 1px solid #ccc;"><div
+style="text-align:center;margin:10px"><a
+href="http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1424703953729&.sig=9p7YJcjN77xm.HJfUYMfQS4nVcg-&offerId=e215e3b20e55de511aa27a545b83d548&searchId=1076981215885_1424703953714_2484733&affiliationId=96945274&country=fr&wait=true&ecs=ok&contextLevel=1&merchantid=11653513&comId=11653513&catId=150701&searchQuery=dGhlIGZpZnRoIGVzdGF0ZQ==&useSearch6=true&contextOfferPosition=3" style="color:#c37089;text-decoration:none;" target="_blank" title="Take The Fifth - Fifth Estate"><img
+style="margin-bottom:5px;width:75px;height:75px;border:0px;" src="http://r.kelkoo.com/r/fr/11653513/150701/90/90/http%3A%2F%2Fpmcdn.staticpmrk.com%2Fphoto%2F1013941844_L.jpg/ZKalsSz6Q.SUnixCpTQasdRB4O5Vj1oQTxmwHRlWNQ4-" alt="Take The Fifth - Fifth Estate"></a><div
+style="text-align:left;vertical-align:top;"><a
+href="http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1424703953729&.sig=9p7YJcjN77xm.HJfUYMfQS4nVcg-&offerId=e215e3b20e55de511aa27a545b83d548&searchId=1076981215885_1424703953714_2484733&affiliationId=96945274&country=fr&wait=true&ecs=ok&contextLevel=1&merchantid=11653513&comId=11653513&catId=150701&searchQuery=dGhlIGZpZnRoIGVzdGF0ZQ==&useSearch6=true&contextOfferPosition=3" style="color:#c37089;text-decoration:none;display:block;height:50%;margin-bottom:10px;font-weight:bold;" target="_blank" title="Take The Fifth - Fifth Estate">Take The Fifth - Fif...</a><div
+style="margin:0px 0px 5px 0px;font-weight:bold;">Meilleur prix : <a
+href="http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1424703953729&.sig=9p7YJcjN77xm.HJfUYMfQS4nVcg-&offerId=e215e3b20e55de511aa27a545b83d548&searchId=1076981215885_1424703953714_2484733&affiliationId=96945274&country=fr&wait=true&ecs=ok&contextLevel=1&merchantid=11653513&comId=11653513&catId=150701&searchQuery=dGhlIGZpZnRoIGVzdGF0ZQ==&useSearch6=true&contextOfferPosition=3" style="text-decoration:none;color:#8bb60b;font-weight:normal;" target="_blank" title="Take The Fifth - Fifth Estate">6.27&nbsp;&euro;</a></div> chez <a
+href="http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1424703953729&.sig=9p7YJcjN77xm.HJfUYMfQS4nVcg-&offerId=e215e3b20e55de511aa27a545b83d548&searchId=1076981215885_1424703953714_2484733&affiliationId=96945274&country=fr&wait=true&ecs=ok&contextLevel=1&merchantid=11653513&comId=11653513&catId=150701&searchQuery=dGhlIGZpZnRoIGVzdGF0ZQ==&useSearch6=true&contextOfferPosition=3" style="text-decoration:none;color:#8bb60b;font-weight:normal;" target="_blank" title="Priceminister Neuf">Priceminister Neuf</a></div></div></td><td
+style="width:100px;vertical-align:top;padding:0px;font-weight:bold;font-family:arial,Helvetica,sans-serif;font-size:11px;border-right: 1px solid #ccc;"><div
+style="text-align:center;margin:10px"><a
+href="http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1424703953729&.sig=TuwPiKABLn7aIFrvRsrn1yxUe9A-&offerId=7690f369aabc7b619039bfa5c7cbe018&searchId=1076981215885_1424703953714_2484733&affiliationId=96945274&country=fr&wait=true&ecs=ok&contextLevel=1&merchantid=3012701&comId=3012701&catId=150701&searchQuery=dGhlIGZpZnRoIGVzdGF0ZQ==&useSearch6=true&contextOfferPosition=4" style="color:#c37089;text-decoration:none;" target="_blank" title="Take The Fifth - Fifth Estate"><img
+style="margin-bottom:5px;width:75px;height:75px;border:0px;" src="http://r.kelkoo.com/r/fr/3012701/150701/90/90/http%3A%2F%2Fpmcdn.staticpmrk.com%2Fphoto%2F1013941844_L.jpg/ZKalsSz6Q.SUnixCpTQasdRB4O5Vj1oQTxmwHRlWNQ4-" alt="Take The Fifth - Fifth Estate"></a><div
+style="text-align:left;vertical-align:top;"><a
+href="http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1424703953729&.sig=TuwPiKABLn7aIFrvRsrn1yxUe9A-&offerId=7690f369aabc7b619039bfa5c7cbe018&searchId=1076981215885_1424703953714_2484733&affiliationId=96945274&country=fr&wait=true&ecs=ok&contextLevel=1&merchantid=3012701&comId=3012701&catId=150701&searchQuery=dGhlIGZpZnRoIGVzdGF0ZQ==&useSearch6=true&contextOfferPosition=4" style="color:#c37089;text-decoration:none;display:block;height:50%;margin-bottom:10px;font-weight:bold;" target="_blank" title="Take The Fifth - Fifth Estate">Take The Fifth - Fif...</a><div
+style="margin:0px 0px 5px 0px;font-weight:bold;">Meilleur prix : <a
+href="http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1424703953729&.sig=TuwPiKABLn7aIFrvRsrn1yxUe9A-&offerId=7690f369aabc7b619039bfa5c7cbe018&searchId=1076981215885_1424703953714_2484733&affiliationId=96945274&country=fr&wait=true&ecs=ok&contextLevel=1&merchantid=3012701&comId=3012701&catId=150701&searchQuery=dGhlIGZpZnRoIGVzdGF0ZQ==&useSearch6=true&contextOfferPosition=4" style="text-decoration:none;color:#8bb60b;font-weight:normal;" target="_blank" title="Take The Fifth - Fifth Estate">20.93&nbsp;&euro;</a></div> chez <a
+href="http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1424703953729&.sig=TuwPiKABLn7aIFrvRsrn1yxUe9A-&offerId=7690f369aabc7b619039bfa5c7cbe018&searchId=1076981215885_1424703953714_2484733&affiliationId=96945274&country=fr&wait=true&ecs=ok&contextLevel=1&merchantid=3012701&comId=3012701&catId=150701&searchQuery=dGhlIGZpZnRoIGVzdGF0ZQ==&useSearch6=true&contextOfferPosition=4" style="text-decoration:none;color:#8bb60b;font-weight:normal;" target="_blank" title="PriceMinister Occasions">PriceMinister Occasions</a></div></div></td><td
+style="width:100px;vertical-align:top;padding:0px;font-weight:bold;font-family:arial,Helvetica,sans-serif;font-size:11px;border-right: 1px solid #ccc;"><div
+style="text-align:center;margin:10px"><a
+href="http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1424703953730&.sig=fsroW6GsPSWgqA7zePyyTJhEjmU-&offerId=cd722ba7cdf80ed055bef0fd0b765615&searchId=1076981215885_1424703953714_2484733&affiliationId=96945274&country=fr&wait=true&ecs=ok&contextLevel=1&merchantid=11653513&comId=11653513&catId=150701&searchQuery=dGhlIGZpZnRoIGVzdGF0ZQ==&useSearch6=true&contextOfferPosition=5" style="color:#c37089;text-decoration:none;" target="_blank" title="Fifth Estate - Burwell, carter"><img
+style="margin-bottom:5px;width:75px;height:75px;border:0px;" src="http://r.kelkoo.com/r/fr/11653513/150701/90/90/http%3A%2F%2Fpmcdn.staticpmrk.com%2Fphoto%2F969264377_L.jpg/JifN6KEk_bg3UXe_38HqFKR3UmEd9Wcyp4VAToq9io4-" alt="Fifth Estate - Burwell, carter"></a><div
+style="text-align:left;vertical-align:top;"><a
+href="http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1424703953730&.sig=fsroW6GsPSWgqA7zePyyTJhEjmU-&offerId=cd722ba7cdf80ed055bef0fd0b765615&searchId=1076981215885_1424703953714_2484733&affiliationId=96945274&country=fr&wait=true&ecs=ok&contextLevel=1&merchantid=11653513&comId=11653513&catId=150701&searchQuery=dGhlIGZpZnRoIGVzdGF0ZQ==&useSearch6=true&contextOfferPosition=5" style="color:#c37089;text-decoration:none;display:block;height:50%;margin-bottom:10px;font-weight:bold;" target="_blank" title="Fifth Estate - Burwell, carter">Fifth Estate - Burwe...</a><div
+style="margin:0px 0px 5px 0px;font-weight:bold;">Meilleur prix : <a
+href="http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1424703953730&.sig=fsroW6GsPSWgqA7zePyyTJhEjmU-&offerId=cd722ba7cdf80ed055bef0fd0b765615&searchId=1076981215885_1424703953714_2484733&affiliationId=96945274&country=fr&wait=true&ecs=ok&contextLevel=1&merchantid=11653513&comId=11653513&catId=150701&searchQuery=dGhlIGZpZnRoIGVzdGF0ZQ==&useSearch6=true&contextOfferPosition=5" style="text-decoration:none;color:#8bb60b;font-weight:normal;" target="_blank" title="Fifth Estate - Burwell, carter">9.7&nbsp;&euro;</a></div> chez <a
+href="http://ecs-fr.kelkoo.fr/ctl/go/sitesearchGo?.ts=1424703953730&.sig=fsroW6GsPSWgqA7zePyyTJhEjmU-&offerId=cd722ba7cdf80ed055bef0fd0b765615&searchId=1076981215885_1424703953714_2484733&affiliationId=96945274&country=fr&wait=true&ecs=ok&contextLevel=1&merchantid=11653513&comId=11653513&catId=150701&searchQuery=dGhlIGZpZnRoIGVzdGF0ZQ==&useSearch6=true&contextOfferPosition=5" style="text-decoration:none;color:#8bb60b;font-weight:normal;" target="_blank" title="Priceminister Neuf">Priceminister Neuf</a></div></div></td></tr></tbody></table></div></div><div
+style="width:100%;padding:0px;background:transparent url(http://img.shopping.com/jfe/bb/common/boxBtmLeft.gif) no-repeat left bottom;height:10px;line-height:10px;font-size:1px;"><div
+style="margin-left:10px;padding-right:10px;background:transparent url(http://img.shopping.com/jfe/bb/common/boxBtmRt5.gif) no-repeat bottom right;height:10px;line-height:10px;font-size:1px;">&nbsp;</div></div></div><div
+class="post-infos"><div
+class="plus-one"> <g:plusone size="medium"></g:plusone> <script type="text/javascript">window.___gcfg = {lang: 'fr'};
+                  (function() {
+                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                    po.src = 'https://apis.google.com/js/plusone.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                  })();</script> </div><div
+class="like-twitter"> <a
+href="http://twitter.com/share" class="twitter-share-button" data-url="http://www.journaldugeek.com/2015/02/23/nicolas-cage-va-jouer-dans-le-film-doliver-stone-consacre-a-edward-snowden/"  data-text="Nicolas Cage va jouer dans le film d&rsquo;Oliver Stone consacré à Edward Snowden" data-count="horizontal" data-lang="fr">Tweet</a></div><div
+class="like-facebook"> <iframe
+src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.journaldugeek.com%2F2015%2F02%2F23%2Fnicolas-cage-va-jouer-dans-le-film-doliver-stone-consacre-a-edward-snowden%2F&amp;send=false&amp;layout=button_count&amp;width=230&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:230px; height:21px;" allowTransparency="true"></iframe></div><div
+class="pin-it"> <a
+href="http://pinterest.com/pin/create/button/?url=http://www.journaldugeek.com/2015/02/23/nicolas-cage-va-jouer-dans-le-film-doliver-stone-consacre-a-edward-snowden/&media=http://www.journaldugeek.com/files/2015/02/vampires-kiss-600x340.jpg&description=Nicolas Cage va jouer dans le film d&rsquo;Oliver Stone consacré à Edward Snowden" class="pin-it-button" count-layout="horizontal"><img
+border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a></div><div
+class="addtofav"><a
+href="http://www.journaldugeek.com/profile/favoris/action/AddFavorite/id/264404/" title="Ajouter aux favoris">Favoris</a></div><div
+class="rss-comment"><a
+href="http://www.journaldugeek.com/comments/feed/" title="S'abonner au flux RSS des commentaires">Flux RSS des commentaires</a></div><div
+class="print-post"><a
+href="http://www.printfriendly.com/print?url=http%3A%2F%2Fwww.journaldugeek.com%2F2015%2F02%2F23%2Fnicolas-cage-va-jouer-dans-le-film-doliver-stone-consacre-a-edward-snowden%2F&partner=sociable" class="print" target="_blank" rel="nofollow" title="Imprimer">Imprimer</a></div><p
+class="post-tags">Tags : <a
+href="http://www.journaldugeek.com/tag/edward-snowden/" rel="tag">Edward Snowden</a> <a
+href="http://www.journaldugeek.com/tag/film/" rel="tag">film</a> <a
+href="http://www.journaldugeek.com/tag/nicolas-cage/" rel="tag">Nicolas Cage</a> <a
+href="http://www.journaldugeek.com/tag/oliver-stone/" rel="tag">oliver stone</a></p></div><div
+class="prevornextarticle"><ul><li
+class="post-prev"><a
+href="http://www.journaldugeek.com/2015/02/23/pendant-ce-temps-au-japon-sanrio-devoile-des-toilettes-hello-kitty/" rel="prev">&laquo; Article pr&eacute;c&eacute;dent</a></li><li
+class="post-next"></li></ul></div><div
+class="related-content"><h4>Contenu relatif</h4><div
+id="yarpp_widget-15" class="widget widget_yarpp_widget"><h2 class="widgettitle"></h2><div
+class='yarpp-related-widget'><ol><li><a
+href="http://www.journaldugeek.com/2014/11/12/joseph-gordon-levitt-va-jouer-edward-snowden-au-cinema/" rel="bookmark">Joseph Gordon-Levitt va jouer Edward Snowden au cinéma</a></li><li><a
+href="http://www.journaldugeek.com/2014/06/03/oliver-stone-film-edward-snowden/" rel="bookmark">Oliver Stone réalisera un film sur Edward Snowden</a></li><li><a
+href="http://www.journaldugeek.com/2014/05/20/edward-snowden-maintenant-heros-de-comic-book/" rel="bookmark">Edward Snowden maintenant héros de comic book</a></li><li><a
+href="http://www.journaldugeek.com/2014/05/15/edward-snowden-film-james-bond/" rel="bookmark">Edward Snowden vaut bien un film de James Bond</a></li><li><a
+href="http://www.journaldugeek.com/2014/02/19/edward-snowden-est-le-nouveau-recteur-de-luniversite-de-glasgow/" rel="bookmark">Edward Snowden est le nouveau recteur de l&rsquo;université de Glasgow</a></li><li><a
+href="http://www.journaldugamer.com/2013/03/22/wtf-nicolas-cage-pokemon/" rel="bookmark">[WTF] Nicolas Cage est un Pokémon</a></li></ol></div></div></div><div
+id="taboola-below-article-thumbnails"></div> <script type="text/javascript">window._taboola = window._taboola || [];
+					_taboola.push({
+						mode: 'thumbnails-a',
+						container: 'taboola-below-article-thumbnails',
+						placement: 'Below Article Thumbnails',
+						target_type: 'mix'
+					});</script> <div
+id="taboola-organic---below-article-thumbnails"></div> <script type="text/javascript">window._taboola = window._taboola || [];
+					_taboola.push({
+						mode: 'organic-thumbnails-a',
+						container: 'taboola-organic---below-article-thumbnails',
+						placement: 'Organic - Below Article Thumbnails',
+						target_type: 'mix'
+					});</script> <div
+id="lig_journaldugeek_articles_smartbox"></div> <script language="javascript" src="http://i.ligatus.com/fr-placements/containers/journaldugeek/journaldugeek/tc-cre.js"></script> <div
+class="middle_add"><div
+id='div-gpt-ad-1380187529042-3'> <script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1380187529042-3'); });</script> </div></div><div
+class="section-title"><div
+id="comments" class="comments_block"><h4><span>0 avis</span> <a
+href="#write-comment">Ajouter le votre</a></h4><div
+class="commentaires_pertinents"> Afficher: <a
+href="#" id="linkCommPertinent">Afficher tous</a></div></div></div><div
+class="post-comments"><ul
+id="comments"></ul></div><div
+class="comment-pagination pagination"><ol></ol></div><div
+class="write-comment comment-open" id="write-comment" rel="264404" > <script type="text/javascript" language="Javascript">function init_commentform() {
+    if(!jQuery('#write-comment'))
+        return;
+    if(!jQuery('#write-comment').hasClass('comment-open'))
+        return;
+    if(!jQuery.cookie('beloggedin')) {   return; }// tmp
+          jQuery.get('/webservice/commentform/id/264404/', function(data) {
+          //$('.result').html(data);
+          jQuery('#write-comment').html(data);
+                  });
+         //new Request.HTML({url:'/webservice/commentform/id/'+$('write-comment').getProperty('rel')+'/',update:$('write-comment')}).send();
+         //new Request.HTML({url:'/webservice/commentform/id/'+$('write-comment').getProperty('rel')+'/',update:$('write-comment')}).send();
+        //webservice/commentform/id/
+        //member_id = getCookie("member_id");
+}
+ init_commentform();</script> <h4>Donner son avis :</h4><p
+class="abuse"><a
+href="http://www.journaldugeek.com/contactez-nous/?cf_field_10=Signaler un abus">Signaler un abus, une erreur, une faute...</a></p><form
+class="jdg-forms" id="comments-form" action="http://www.journaldugeek.com/wp-comments-post.php" method="post"><ul><li
+class="textbox boxleft"> <label
+for="form_comment_author">Nom <small>(requis)</small></label> <span><input
+id="form_comment_author" name="author" type="text" /></span></li><li
+class="textbox boxright"> <label
+for="form_comment_email">Email <small>(obligatoire, mais non affich&eacute;)</small></label> <span><input
+id="form_comment_email" name="email" type="text" /></span></li><li
+class="textbox box"> <label
+for="form_comment_url">Site, blog, lien</label> <span><input
+id="form_comment_url" type="text" name="url" /></span></li><li
+class="textbox box"> <label
+for="form_comment_message">Votre commentaire <a
+href="#" class="aide" title=""><img
+src="http://www.journaldugeek.com/wp-content/themes/geek/images/icn/icn_help.png" alt="Aide" /></a></label> <span><textarea id="form_comment_message" name="comment" cols="20" rows="3"></textarea></span></li><li
+class="submit"> <button
+class="btn" type="submit" name="Post" id="commentPost">Envoyer</button> <input
+type="hidden" name="comment_post_ID" value="264404" /><p
+style="display: none;"><input
+type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="a7419a2896" /></p><p
+class="comment-subscription-form"><input
+type="checkbox" name="subscribe_comments" id="subscribe_comments" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" /> <label
+class="subscribe-label" id="subscribe-label" for="subscribe_comments">Prévenez-moi de tous les nouveaux commentaires par e-mail.</label></p><p
+class="comment-subscription-form"><input
+type="checkbox" name="subscribe_blog" id="subscribe_blog" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" /> <label
+class="subscribe-label" id="subscribe-blog-label" for="subscribe_blog">Prévenez-moi de tous les nouveaux articles par email.</label></p><p
+style="display: none;"><input
+type="hidden" id="ak_js" name="ak_js" value="227"/></p></li></ul></form></div> <script type="text/javascript" >jQuery.noConflict();
+    // gestion de la note par Étoile des commentaires
+    function noteComment() {
+        jQuery(".noteUser li").on("hover",function(){
+            note = jQuery(this).attr("data-note");
+            jQuery("#valNote").val(note);
+            // stocker dans champ cacher
+            // MAJ des Étoiles
+            //buffoutNote = "";
+            for(i=1;i<=5;i++){
+                if(i<=note) buffoutNote = "<strong>*</strong>";
+                else buffoutNote = "-";
+                jQuery("#etoile_"+i).html(buffoutNote);
+            }
+            //jQuery(".noteUser").html(buffoutNote);
+            //alert(note);
+         });
+        jQuery("#commentPost").click(function(){
+        if(jQuery("#valNote").val()=='no') alert('Merci d\'attribuer une note entre 1 et 5 étoiles.')
+        else jQuery("#comments-form").submit();
+        });
+     }
+     init_commentform();</script> <div
+class="return-to-top"> <a
+class="returntop" href="#header">Retour en haut</a></div><div
+class="middle_add"><div
+id='div-gpt-ad-1380187529042-4'> <script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1380187529042-4'); });</script> </div></div></div><div
+id='div-gpt-ad-1398345871934-0' style='width:1px; height:1px;'> <script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1398345871934-0'); });</script> </div></div><div
+class="sidebar colright col_300"><div
+id="sidebar" role="complementary"><div
+class="widget-ad"><div
+id='div-gpt-ad-1380187529042-2'> <script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1380187529042-2'); });</script> </div><div
+id='div-gpt-ad-1382107604767-0'> <script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1382107604767-0'); });</script> </div></div><div
+class="widget-hostby widget"> <a
+class="dsprite" href="http://www.typhon.com">JDG Network est h&eacute;berg&eacute; par Typhon</a></div><div
+class="widget"> <a
+href="http://www.jdgbox.com/" target="_blank"> <img
+src="http://www.journaldugeek.com/wp-content/themes/geek/images/jdgbox4.gif" width="300" height="179" /> </a></div><div
+class="widget-classifieds widget"><h3>Recevez nos Newsletters !</h3><link
+href="http://cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css"><style type="text/css">#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;  width:297px;}
+                /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+                   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */</style><div
+id="mc_embed_signup"><form
+action="http://journaldugeek.us3.list-manage.com/subscribe/post?u=d65f4cb663503d6886bd1084b&amp;id=fdf5d3b06c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate><div
+class="indicates-required"><span
+class="asterisk">*</span> champ obligatoire</div><div
+class="mc-field-group"> <label
+for="mce-EMAIL">Votre adresse email <span
+class="asterisk">*</span> </label> <input
+type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Vous recevrez un email de confirmation"></div><div
+class="mc-field-group input-group"> <strong>Nos newsletters </strong><ul><li><input
+type="checkbox" value="1099511627776" name="group[7381][1099511627776]" id="mce-group[7381]-7381-0"><label
+for="mce-group[7381]-7381-0">Journal du Geek</label></li><li><input
+type="checkbox" value="2199023255552" name="group[7381][2199023255552]" id="mce-group[7381]-7381-1"><label
+for="mce-group[7381]-7381-1">Journal du Gamer</label></li><li><input
+type="checkbox" value="4398046511104" name="group[7381][4398046511104]" id="mce-group[7381]-7381-2"><label
+for="mce-group[7381]-7381-2">Partenaires et Bons Plans</label></li></ul></div><div
+id="mce-responses" class="clear"><div
+class="response" id="mce-error-response" style="display:none"></div><div
+class="response" id="mce-success-response" style="display:none"></div></div><div
+style="position: absolute; left: -5000px;"><input
+type="text" name="b_d65f4cb663503d6886bd1084b_fdf5d3b06c" tabindex="-1" value=""></div><div
+class="clear"><input
+type="submit" value="Valider" name="subscribe" id="mc-embedded-subscribe" class="button" style="background-color: #c37089;"></div></form></div></div><div
+class="widget-followus widget"><h3>Nous suivre</h3><ul><li
+class="facebook"><a
+href="http://www.facebook.com/lejournaldugeek" title="Facebook" target="_blank">Facebook</a></li><li
+class="twitter"><a
+href="http://twitter.com/journaldugeek" title="Twitter" target="_blank">Twitter</a></li><li
+class="flickr"><a
+href="http://www.flickr.com/photos/journaldugeek/" title="FlickR" target="_blank">Flickr</a></li><li
+class="youtube"><a
+href="http://www.youtube.com/user/JournalduGeek" title="YouTube" target="_blank">Youtube</a></li><li
+class="rss"><a
+href="http://www.journaldugeek.com/feed/" title="RSS" target="_blank">RSS</a></li></ul></div><div
+class="widget-mobile widget"><h3>Mobile Apps</h3><ul><li
+class="ios"><a
+href="/app-iphone">iOS</a></li><li
+class="android"><a
+href="/app-android">Android</a></li><li
+class="wp7"><a
+href="/app-wp7">Windows Phone 7</a></li></ul></div><div
+class="widget-classifieds widget"><h3>Top 3 articles</h3> <iframe
+frameborder="0" width="300" height="290" scrolling="no" style="display: block" src="http://uwa.netvibes.com/widget/frame?uwaUrl=http%3A%2F%2Fwww.netvibes.com%2Fmodules%2Ftop3%2Ftop3.html&header=0&displayEdit=0&autoLaunch=1&readOnly=1"></iframe></div><div
+class="widget-recent-forum-topics widget last"><h3>Derniers topics du Forum</h3><ul></ul></div><div
+class="widget-joinus widget"><div
+id='div-gpt-ad-1381137331114-0'> <script type='text/javascript'>googletag.cmd.push(function() { googletag.display("div-gpt-ad-1381137331114-0"); });</script> </div></div><div
+class="widget-members widget"><h3>Badges</h3><ul><li> <a
+href="/member/view/superkoonar/" rel="nofollow" id="android" title="Android"> </a></li><li> <a
+href="/member/view/superkoonar/" rel="nofollow" id="asus" title="Asus"> </a></li><li> <a
+href="/member/view/tentacle_blue/" rel="nofollow" id="android" title="Android"> </a></li><li> <a
+href="/member/view/tentacle_blue/" rel="nofollow" id="nikon" title="Nikon"> </a></li><li> <a
+href="/member/view/sana17/" rel="nofollow" id="comment10" title="10 Commentaires"> </a></li><li> <a
+href="/member/view/santiagool8/" rel="nofollow" id="windowsphone" title="Windows Phone"> </a></li><li> <a
+href="/member/view/santiagool8/" rel="nofollow" id="sfr" title="SFR"> </a></li><li> <a
+href="/member/view/santiagool8/" rel="nofollow" id="firefox" title="Firefox"> </a></li><li> <a
+href="/member/view/santiagool8/" rel="nofollow" id="gamer" title="Gamer"> </a></li><li> <a
+href="/member/view/santiagool8/" rel="nofollow" id="windowsphone" title="Windows Phone"> </a></li></ul></div><div
+class="widget-members widget"> <iframe
+src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Flejournaldugeek&amp;width=300&amp;height=370&amp;show_faces=true&amp;colorscheme=light&amp;stream=false&amp;border_color&amp;header=true&amp;appId=448564825172659" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:370px;" allowTransparency="true"></iframe></div> <script type="text/javascript">(function(){var a = document.createElement('script');var protocol = (location.protocol==='https:') ? 'https://secure.':'http://';a.src=protocol+'ads.kelkoo.com/javascripts/scout.js';document.getElementsByTagName('head')[0].appendChild(a);})();</script> <div
+class="widget"><h3>Le JDG vous recommande</h3><div
+class="js-kelkoo-widget" data-kw-name="Article" data-kw-country="fr" data-kw-tracking-id="96945274" data-kw-id="1974" data-kw-template-id="carousel" data-kw-template-size="lrec" data-kw-contextual="false" data-kw-keyword="The fifth Estate " data-kw-price-min="0" data-kw-price-max="0" data-kw-rebate="0" data-kw-display-merchant="name" data-kw-url-color="#871f42" data-kw-text-color="#050004" data-kw-background-color="#ffffff" data-kw-border-color="#ffffff" data-kw-merchant-color="#757575" data-kw-corner="none" data-kw-font="arial" data-kw-font-size="large" data-kw-display-title="true" data-kw-display-image="true" data-kw-display-description="false" data-kw-display-price="true" data-kw-display-rebate="false" data-kw-display-kelkoo-logo="false"  data-kw-ad-id="1974"></div></div><div
+class="clear"></div><div
+class="widget-classifieds widget"><h3>Petites annonces</h3> <a
+class="more" href="http://www.journaldugeek.com/category/annonces/">Plus d'annonces</a><div
+class="classifieds-container"><div
+class="classifieds" id="carousel3_slider"><div
+class="classifieds-slider-container" id="annoncesslider"><div
+class="classifieds-inner" id="annoncesslider_content"><ul
+id="1"><li> <a
+href="http://www.journaldugeek.com/2015/02/23/macbook-pro-retina-13-3/"><div
+class="classifieds-img"> <img
+src="http://www.journaldugeek.com/files/2015/02/IMG_0913-39x39.jpg" alt="Macbook pro Retina 13&Prime;" /></div><div
+class="classifieds-txt"><p>Macbook pro Retina 13&Prime;</p> <span>prix : <em>1400&euro;</em></span></div> </a></li><li> <a
+href="http://www.journaldugeek.com/2015/02/23/vds-casque-beyerdynamics-custom-one-pro-blanc-quasi-neuf-2/"><div
+class="classifieds-img"> <img
+src="http://www.journaldugeek.com/files/2015/01/WP_20150126_17_11_55_Pro1-39x39.jpg" alt="[VDS] Casque Beyerdynamics Custom One Pro [Blanc] [Quasi Neuf ]" /></div><div
+class="classifieds-txt"><p>[VDS] Casque Beyerdynamics Custom One Pr...</p> <span>prix : <em>100&euro;</em></span></div> </a></li><li> <a
+href="http://www.journaldugeek.com/2015/02/17/macbook-pro-retina-13-2/"><div
+class="classifieds-img"> <img
+src="http://www.journaldugeek.com/files/2015/02/IMG_0960-39x39.jpg" alt="Macbook pro retina 13" /></div><div
+class="classifieds-txt"><p>Macbook pro retina 13</p> <span>prix : <em>1300&euro;</em></span></div> </a></li><li> <a
+href="http://www.journaldugeek.com/2015/01/19/nao-robot-3/"><div
+class="classifieds-img"> <img
+src="http://www.journaldugeek.com/files/2015/01/220px-NAO-Robot2-39x39.jpg" alt="NAO ROBOT" /></div><div
+class="classifieds-txt"><p>NAO ROBOT</p> <span>prix : <em>9000&euro;</em></span></div> </a></li></ul><ul
+id="5"><li> <a
+href="http://www.journaldugeek.com/2015/01/12/robot-nao/"><div
+class="classifieds-img"> <img
+src="http://www.journaldugeek.com/files/2015/01/220px-NAO-Robot3-39x39.jpg" alt="Robot NAO" /></div><div
+class="classifieds-txt"><p>Robot NAO</p> <span>prix : <em>10000&euro;</em></span></div> </a></li><li> <a
+href="http://www.journaldugeek.com/2015/01/06/souris-steelseries-world-of-warcraft-wireless-mmo/"><div
+class="classifieds-img"> <img
+src="http://www.journaldugeek.com/files/2014/12/IMGP1674-39x39.jpg" alt="Souris Steelseries World of Warcraft Wireless MMO" /></div><div
+class="classifieds-txt"><p>Souris Steelseries World of Warcraft Wir...</p> <span>prix : <em>120&euro;</em></span></div> </a></li><li> <a
+href="http://www.journaldugeek.com/2015/01/04/ecran-pc-philips-27-2/"><div
+class="classifieds-img"> <img
+src="http://www.journaldugeek.com/files/2015/01/20141231_1243251-39x39.jpg" alt="Ecran PC Philips 27&Prime;" /></div><div
+class="classifieds-txt"><p>Ecran PC Philips 27&Prime;</p> <span>prix : <em>120&euro;</em></span></div> </a></li><li> <a
+href="http://www.journaldugeek.com/2015/01/04/pc-ecran-accessoires/"><div
+class="classifieds-img"> <img
+src="http://www.journaldugeek.com/files/2015/01/IMG_2703-39x39.jpg" alt="PC + écran + accessoires" /></div><div
+class="classifieds-txt"><p>PC + écran + accessoires</p> <span>prix : <em>1300&euro;</em></span></div> </a></li></ul><ul
+id="9"><li> <a
+href="http://www.journaldugeek.com/2014/12/29/htc-one-m7-gpe-lollipop-5-0-1/"><div
+class="classifieds-img"> <img
+src="http://www.journaldugeek.com/files/2014/12/13-39x39.jpg" alt="HTC One M7 &#8211; GPe &#8211; Lollipop (5.0.1)" /></div><div
+class="classifieds-txt"><p>HTC One M7 &#8211; GPe &#8211; Lollipop ...</p> <span>prix : <em>190&euro;</em></span></div> </a></li><li> <a
+href="http://www.journaldugeek.com/2014/11/24/ecran-pc-3d-samsung-27-pouces-s27a950d/"><div
+class="classifieds-img"> <img
+src="http://www.journaldugeek.com/files/2014/11/samsung_3d_2011-39x39.jpg" alt="Ecran PC 3D Samsung 27 pouces (S27A950D)" /></div><div
+class="classifieds-txt"><p>Ecran PC 3D Samsung 27 pouces (S27A950D)</p> <span>prix : <em>290&euro;</em></span></div> </a></li><li> <a
+href="http://www.journaldugeek.com/2014/11/17/lenovo-aio-a520-i3-23-tactile/"><div
+class="classifieds-img"> <img
+src="http://www.journaldugeek.com/files/2014/11/IMG_20140914_2000071-39x39.jpg" alt="Lenovo AIO A520 i3 23&Prime; Tactile" /></div><div
+class="classifieds-txt"><p>Lenovo AIO A520 i3 23&Prime; Tactile</p> <span>prix : <em>750&euro;</em></span></div> </a></li><li> <a
+href="http://www.journaldugeek.com/2014/11/09/a-vendre-i-phone-5s-gold-3/"><div
+class="classifieds-img"> <img
+src="http://www.journaldugeek.com/files/2014/11/92-39x39.jpg" alt="A vendre I-Phone 5S Gold" /></div><div
+class="classifieds-txt"><p>A vendre I-Phone 5S Gold</p> <span>prix : <em>390&euro;</em></span></div> </a></li></ul></div></div><div
+id="annoncesslider_pagination" class="dot-nav"><ol
+id="sliderannonces"><li
+id="annoncesslider_page"><a
+id="tab1" class="previous" href="#">1</a></li></ol></div> <a
+class="classifieds-new btn" href="http://www.journaldugeek.com/profile/annonces/"><span>Poster une annonce</span></a></div></div></div></div></div><div
+class="clear"></div></div><div
+class="footer"><div
+class="footer-top"><div
+class="list-archives"><form
+method="post" id="listarchiveform" action=""> <label
+for="selectarchive">Archives</label> <a
+class="selectarchive" href="/archives/">Choisir le mois</a><ul><li><a
+href='http://www.journaldugeek.com/2015/02/'>février 2015</a></li><li><a
+href='http://www.journaldugeek.com/2015/01/'>janvier 2015</a></li><li><a
+href='http://www.journaldugeek.com/2014/12/'>décembre 2014</a></li><li><a
+href='http://www.journaldugeek.com/2014/11/'>novembre 2014</a></li><li><a
+href='http://www.journaldugeek.com/2014/10/'>octobre 2014</a></li><li><a
+href='http://www.journaldugeek.com/2014/09/'>septembre 2014</a></li><li><a
+href='http://www.journaldugeek.com/2014/08/'>août 2014</a></li><li><a
+href='http://www.journaldugeek.com/2014/07/'>juillet 2014</a></li><li><a
+href='http://www.journaldugeek.com/2014/06/'>juin 2014</a></li><li><a
+href='http://www.journaldugeek.com/2014/05/'>mai 2014</a></li><li><a
+href='http://www.journaldugeek.com/2014/04/'>avril 2014</a></li><li><a
+href='http://www.journaldugeek.com/2014/03/'>mars 2014</a></li></ul></form></div><div
+class="nav-footer"><ul><li><a
+href="http://www.journaldugeek.com/conditions-generales-dutilisation-du-site/">C.G.U.</a></li><li><a
+href="http://www.journaldugeek.com/a-propos/">A propos</a></li><li><a
+href="http://www.journaldugeek.com/contactez-nous/">Contact</a></li><li><a
+href="http://www.journaldugeek.com/contact-pub/">Publicit&eacute;</a></li></ul></div></div><div
+class="footer-middle"><div
+class="footer-like-facebook"><p><span>Nous vous aimons, aimez nous aussi !</span>Soyez les premiers inform&eacute;s grace &agrave; Facebook</p><div
+class="likeusonfacebook"> <img
+src="http://www.journaldugeek.com/wp-content/themes/geek/images/geek/logo_jdg_facebook.png" alt="Le JDG sur Facebook" /> <strong>Le Journal du Geek</strong><div
+class="footer-btn-like"> <iframe
+src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Flejournaldugeek&amp;width=135&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21&amp;appId=144341722442218" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:135px; height:21px;" allowTransparency="true"></iframe></div></div></div><div
+class="footer-followus"><p><a
+href="https://plus.google.com/u/0/+JournalduGeek/posts" style="text-decoration:none;"><img
+src="https://ssl.gstatic.com/images/icons/gplus-32.png" alt="" style="border:0;width:32px;height:32px;"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<g:plusone size="medium" href="http://www.journaldugeek.com"></g:plusone></p><ul><li
+class="facebook"><a
+href="http://www.facebook.com/lejournaldugeek" title="Facebook" target="_blank">Facebook</a></li><li
+class="twitter"><a
+href="http://twitter.com/journaldugeek" title="Twitter" target="_blank">Twitter</a></li><li
+class="flickr"><a
+href="http://www.flickr.com/photos/journaldugeek/" title="Flickr" target="_blank">Flickr</a></li><li
+class="youtube"><a
+href="https://www.youtube.com/user/JournalduGeek" title="YouTube" target="_blank">Youtube</a></li><li
+class="netvibes"><a
+href="http://fr.eco.netvibes.com/widgets/351424/jdg-network" title="Netvibes" target="_blank">Netvibes</a></li><li
+class="rss"><a
+href="/feed/" title="RSS" target="_blank">RSS</a></li></ul></div></div><div
+class="footer-bottom"><p
+class="copyright">Copyright &copy; 2005 - 2015 JDG Network, <a
+href="/rediffusion-de-nos-contenus">Tous droits r&eacute;serv&eacute;s</a><i> 03:05:53</i></p><p
+class="siteby">Design by <a
+href="http://www.colorz.fr/">Colorz</a></p></div></div> <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ ga('create', 'UA-1816050-1', 'journaldugeek.com');
+ ga('send', 'pageview');</script> <p><a
+onclick='document.cookie="wpmp_switcher=mobile;path=/;expires=Tue, 01-01-2030 00:00:00 GMT";' href='http://m.journaldugeek.com/2015/02/23/nicolas-cage-va-jouer-dans-le-film-doliver-stone-consacre-a-edward-snowden/?wpmp_switcher=mobile'>Switch to our mobile site</a></p>	
+<!-- Smilies package, Emoticons-geek, courtesy of Ricardo Gonz&aacute;lez (http://rick.jinlabs.com/) -->
+<script type='text/javascript' src='http://www.journaldugeek.com/wp-content/plugins/akismet/_inc/form.js?ver=3.0.4'></script>
+<link rel='stylesheet' id='yarppRelatedCss-css'  href='http://www.journaldugeek.com/wp-content/plugins/yet-another-related-posts-plugin/style/related.css?ver=4.1.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.journaldugeek.com/wp-content/mu-plugins/clrz-comment-rating/ck-karma.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201509'></script>
+<script type='text/javascript' src='http://www.journaldugeek.com/wp-content/plugins/wordpress-popup/js/public.min.js?ver=4.1.1'></script>
+
+	<script src="http://stats.wp.com/e-201509.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	st_go({v:'ext',j:'1:3.3.2',blog:'34320835',post:'264404',tz:'1'});
+	var load_cmc = function(){linktracker_init(34320835,264404,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script><script type="text/javascript" src="http://apis.google.com/js/plusone.js">
+  {lang: 'fr'}
+</script>
+<script type="text/javascript" src="http://assets.pinterest.com/js/pinit.js"></script>
+<!-- TABOOLA -->
+<script type="text/javascript">
+	window._taboola = window._taboola || [];
+	_taboola.push({flush:true});
+</script>
+<!-- /TABOOLA -->
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0017/2005.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+</body>
+</html>
