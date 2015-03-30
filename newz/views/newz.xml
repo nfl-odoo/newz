@@ -1,0 +1,52 @@
+<openerp>
+    <data>
+        <record id="newz_newz_form" model="ir.ui.view">
+            <field name="name">Newz Form</field>
+            <field name="model">newz.newz</field>
+            <field name="arch" type="xml">
+                <form>
+                    <sheet>
+                        <group>
+                            <group>
+                                <field name="title"/>
+                                <field name="url"/>
+                                <field name="source"/>
+                            </group>
+                            <group>
+                                <field name="author"/>
+                                <field name="newz_date"/>
+                                <field name="cat_ids" widget="many2many_tags"/>
+                            </group>
+                        </group>
+                        <separator string="Content"/>
+                        <field name="content"/>
+                    </sheet>
+                </form>
+            </field>
+        </record>
+
+        <record id="newz_newz_tree" model="ir.ui.view">
+            <field name="name">Newz Tree</field>
+            <field name="model">newz.newz</field>
+            <field name="arch" type="xml">
+                <tree>
+                    <field name="title"/>
+                    <field name="author"/>
+                    <field name="newz_date"/>
+                </tree>
+            </field>
+        </record>
+
+        <record id="newz_newz_action" model="ir.actions.act_window">
+            <field name="name">Newz Action</field>
+            <field name="res_model">newz.newz</field>
+            <field name="view_type">form</field>
+            <field name="view_mode">tree,form</field>
+        </record>
+
+        <menuitem id="newz_top_menu" name="Newz" sequence="4"/>
+        <menuitem id="newz_subnewz_menu" parent="newz_top_menu" name="Newz" sequence="20"/>
+        <menuitem id="newz_newz_menu" parent="newz_subnewz_menu" name="Newz" action="newz_newz_action" sequence="16"/>
+
+    </data>
+</openerp>

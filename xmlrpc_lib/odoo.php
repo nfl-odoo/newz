@@ -95,7 +95,7 @@ function create($model, $vals, $login=NULL, $pwd=NULL, $dbname=NULL, $server_url
     $login = isset($login) ? $login : $GLOBALS["DEFAULT_LOGIN"] ;
     $pwd = isset($pwd) ? $pwd : $GLOBALS["DEFAULT_PWD"] ;
 
-    $c_response = isset($GLOBALS["TMP_CONNECTION"]) ? $GLOBALS["TMP_CONNECTION"] : connect() ;
+    $c_response = isset($GLOBALS["TMP_CONNECTION"]) ? $GLOBALS["TMP_CONNECTION"] : connect($login, $pwd, $dbname, $server_url) ;
     if($c_response->errno) return print_apache_log($c_response->faultString()) ;
 
     $uid = $c_response->value()->scalarval();
@@ -123,7 +123,7 @@ function search_ids($model, $domain=NULL, $login=NULL, $pwd=NULL, $dbname=NULL, 
     $login = isset($login) ? $login : $GLOBALS["DEFAULT_LOGIN"] ;
     $pwd = isset($pwd) ? $pwd : $GLOBALS["DEFAULT_PWD"] ;
 
-    $c_response = isset($GLOBALS["TMP_CONNECTION"]) ? $GLOBALS["TMP_CONNECTION"] : connect() ;
+    $c_response = isset($GLOBALS["TMP_CONNECTION"]) ? $GLOBALS["TMP_CONNECTION"] : connect($login, $pwd, $dbname, $server_url) ;
     if($c_response->errno) return print_apache_log($c_response->faultString()) ;
 
     $uid = $c_response->value()->scalarval() ;
@@ -149,7 +149,7 @@ function read($model, $fields, $domain=NULL, $login=NULL, $pwd=NULL, $dbname=NUL
     $login = isset($login) ? $login : $GLOBALS["DEFAULT_LOGIN"] ;
     $pwd = isset($pwd) ? $pwd : $GLOBALS["DEFAULT_PWD"] ;
 
-    $search = search_ids($model, $domain) ;
+    $search = search_ids($model, $domain, $login, $pwd, $dbname, $server_url) ;
     if($search == -1) return -1 ;
     list($ids, $c_response, $client) = $search ;
 

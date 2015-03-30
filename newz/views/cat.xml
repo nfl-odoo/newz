@@ -1,0 +1,42 @@
+<openerp>
+    <data>
+        <record id="newz_cat_form" model="ir.ui.view">
+            <field name="name">Category Form</field>
+            <field name="model">newz.cat</field>
+            <field name="arch" type="xml">
+                <form>
+                    <sheet>
+                        <group>
+                            <group>
+                                <field name="name"/>
+                            </group>
+                            <group>
+                                <field name="code"/>
+                            </group>
+                        </group>
+                    </sheet>
+                </form>
+            </field>
+        </record>
+
+        <record id="newz_cat_tree" model="ir.ui.view">
+            <field name="name">Category Tree</field>
+            <field name="model">newz.cat</field>
+            <field name="arch" type="xml">
+                <tree>
+                    <field name="name"/>
+                    <field name="code"/>
+                </tree>
+            </field>
+        </record>
+
+        <record id="newz_cat_action" model="ir.actions.act_window">
+            <field name="name">Category Action</field>
+            <field name="res_model">newz.cat</field>
+            <field name="view_type">form</field>
+            <field name="view_mode">tree,form</field>
+        </record>
+
+        <menuitem id="newz_cat_menu" parent="newz_subnewz_menu" name="Categories" action="newz_cat_action" sequence="20"/>
+    </data>
+</openerp>
