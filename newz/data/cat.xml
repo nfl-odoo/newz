@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<openerp>
+    <data>
+        <record id="newz_cat_science" model="newz.cat">
+            <field name="name">Science</field>
+            <field name="code">0</field>
+            <field name="color">orange</field>
+            <field name="img_path">images/science.png</field>
+        </record>
+        <record id="newz_cat_politic" model="newz.cat">
+            <field name="name">Politics</field>
+            <field name="code">1</field>
+            <field name="color">blue</field>
+            <field name="img_path">images/science.png</field>
+        </record>
+    </data>
+</openerp>

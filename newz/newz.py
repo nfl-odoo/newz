@@ -1,5 +1,5 @@
 from openerp import models, fields, api
-
+from openerp.exceptions import ValidationError
 
 class newz_newz(models.Model):
     _name = "newz.newz"
@@ -27,6 +27,8 @@ class newz_cat(models.Model):
 
     name = fields.Char(required=True, string="Name")
     code = fields.Char(required=True, string="Code")
+    color = fields.Char(string="Color")
+    img_path = fields.Char(string="Image Path")
 
     @api.one
     @api.constrains("name")
@@ -45,3 +47,31 @@ class newz_user(models.Model):
     _inherit = "res.users"
 
     read_newz_ids = fields.Many2many("newz.newz", relation="rel_newz_user", string="Read Newz")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

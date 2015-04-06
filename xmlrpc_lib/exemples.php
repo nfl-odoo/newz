@@ -4,7 +4,7 @@
 include_once("odoo.php") ;
 
 $DEFAULT_DB = "newz" ;
-$DEFAULT_SERVER = "localhost:8069" ;
+$DEFAULT_SERVER = "localhost:9000" ;
 $DEFAULT_LOGIN = "admin" ;
 $DEFAULT_PWD = "admin" ;
 

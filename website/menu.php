@@ -66,7 +66,7 @@
 
         div.main_lock{
             /*background-color: red;*/
-            width: calc(100% - 154px);
+            width: calc(100% - 162px);
             left: 162px;
             top: -8px;
             position: relative;
@@ -74,7 +74,7 @@
 
         div.main_ulock{
             /*background-color: red;*/
-            width: calc(100% + 16px);
+            width: calc(100% - 16px);
             left: -8px;
             top: -8px;
             position: relative;

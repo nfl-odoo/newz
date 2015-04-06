@@ -8,5 +8,6 @@
         "security/ir.model.access.csv",
         "views/newz.xml",
         "views/cat.xml",
+        "data/cat.xml",
     ],
 }
